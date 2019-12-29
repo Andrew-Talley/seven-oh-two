@@ -1,0 +1,690 @@
+AMERICAN MOCK TRIAL ASSOCIATION
+2016 TEAM NUMBERS
+TEAM # SCHOOL DATE REG./PAID DROP DATE
+1001 Brown University 4/7/2015
+1002 Brown University (2nd Team)
+1003 Brown University (3rd Team)
+1004 University of Alabama, Tuscaloosa 4/13/2015
+1005 University of Alabama, Tuscaloosa
+1006 Cornell University 5/14/2015
+1007 Cornell University
+1008 Cornell University
+1009 University of Maryland, College Park 5/18/2015
+1010 University of Maryland, College Park
+1011 University of Maryland, College Park
+1012 University of Maryland, College Park
+1013 Washington & Jefferson College 5/26/2015
+1014 Florida International University 6/5/2015 1/28/2016
+1015 Iona College 6/11/2015
+1016 St. Norbert College 6/11/2015
+1017 St. Norbert College 11/11/2015
+1018 Samford University 6/12/2015
+1019 Samford University
+1020 Chemeketa Community College 6/19/2015
+1021 Columbia University 6/22/2015
+1022 Columbia University
+1023 Gonzaga University 6/23/2015
+1024 Gonzaga University
+1025 Gonzaga University 12/10/2015
+1026 Patrick Henry College 6/24/2015
+1027 Patrick Henry College
+1028 Patrick Henry College
+1029 Patrick Henry College
+1030 Central College 7/6/2015
+1031 Austin College 7/6/2015
+1032 University of Rochester 7/8/2015
+1033 University of Rochester
+1034 University of Rochester
+1035 University of Virginia 7/13/2015
+1036 University of Virginia
+1037 Washburn University 7/13/2015
+1038 University of North Alabama 7/16/2015
+1039 University of North Alabama 12/14/2015
+1040 University of Nebraska, Omaha 7/22/2015 1/13/2016
+1041 Lee University 7/14/2015
+1042 University of Dayton 7/22/15
+1043 University of Dayton
+1044 Swarthmore College 7/22/2015
+1045 Swarthmore College
+1046 Drake University 7/22/2015
+1047 Drake University
+1048 Drake University
+1049 Elon University 7/22/2015
+1050 Elon University
+1051 Luther College 7/22/2015
+AMERICAN MOCK TRIAL ASSOCIATION
+2016 TEAM NUMBERS
+1052 Luther College 1/31/2016
+1053 Miami University 7/23/2015
+1054 MIami University
+1055 MIami University
+1056 MIami University
+1057 Loyola University-Chicago 7/23/2015
+1058 Loyola University-Chicago
+1059 Loyola University-Chicago
+1060 Tufts University 7/23/15
+1061 Tufts University
+1062 Tufts University
+1063 Stonehill College 7/24/2015
+1064 University of Florida 7/24/2015
+1065 University of Florida
+1066 University of Florida
+1067 University of Florida
+1068 Monroe College 7/16/2015
+1069 Missouri Southern State University 7/27/2015
+1070 Coastal Carolina University 7/28/2015
+1071 Coastal Carolina University 1/14/16
+1072 University of Kentucky 7/28/15
+1073 University of Kentucky
+1074 Bowdoin College 7/25/15
+1075 Bowdoin College
+1076 College of St. Benedict/St. John's University 7/28/15
+1077 Fordham University, Lincoln Center 7/28/15
+1078 Georgia Tech 7/28/15
+1079 Georgia Tech
+1080 Georgia Tech
+1081 Illinois State University 7/28/2015
+1082 Illinois State University
+1083 University of South Dakota 7/28/15
+1084 University of South Dakota
+1085 Ursinus College 7/28/15
+1086 Vanderbilt University 7/16/15
+1087 Vanderbilt University
+1088 Vanderbilt University
+1089 Fordham University, Lincoln Center (2nd team) 7/28/2015
+1090 University of Missouri, Kansas City 7/7/15
+1091 University of Missouri, Kansas City 7/7/15 1/10/16
+1092 University of Texas - Arlington 7/30/15
+1093 Northwestern University 7/31/15
+1094 Stevenson University 7/25/15
+1095 Columbia College, MO 7/6/15
+1096 Quincy University 8/3/0205
+1097 Northwestern University (2nd team) 7/31/15
+1098 Northwestern University (3rd team) 7/31/15
+1099 Northwestern Unviersity (4th team) 7/31/15
+1100 Millsaps College 8/3/15
+1101 Millsaps College 8/3/15
+1102 Cornell College 8/3/2015
+1103 Cornell College 8/3/2015
+AMERICAN MOCK TRIAL ASSOCIATION
+2016 TEAM NUMBERS
+1104 Cornell College 8/3/2015
+1105 Hendrix College 7/9/2015
+1106 Hendrix College 7/9/2015
+1107 Pepperdine University 7/27/15
+1108 University of Louisiana, Monroe 8/4/2015
+1109 University of Louisiana, Monroe 8/4/2015
+1110 Fitchburg State University 8/4/2015
+1111 University of Central Missouri 8/4/15
+1112 University of Central Missouri 8/4/2015
+1113 Winona State University 8/4/2015 2/8/2016
+1114 Fresno State University 8/3/2015
+1115 Fresno State University 8/3/2015
+1116 Fresno State University 8/3/2015
+1117 Fresno State University 8/3/15
+1118 Middle Tennessee State University 8/4/15
+1119 Middle Tennessee State University 2/4/16
+1120 College of Saint Rose 8/4/2015
+1121 Elmhurst College 8/3/2015
+1122 Elmhurst College 10/9/15
+1123 George Washington University 8/4/15
+1124 George Washington University
+1125 George Washington University
+1126 Sullivan University 8/3/15 10/2/15
+1127 Mississippi College 8/5/2015
+1128 University of Pittsburgh 8/3/2015
+1129 University of Pittsburgh
+1130 Grinnell College 7/28/2015
+1131 Grinnell College
+1132 Mississippi Valley State University 8/6/2015
+1133 University of Tennessee, Knoxville 8/6/2015
+1134 University of Tennessee, Knoxville
+1135 University of Tennessee, Knoxville
+1136 St. Ambrose University 8/6/2015
+1137 Queensborough Community College 8/6/2015
+1138 Queensborough Community College 12/2/2015
+1139 University of St. Thomas (MN) 8/6/2015
+1140 University of St. Thomas (MN)
+1141 Clark University 7/25/2015
+1142 Clark University
+1143 Hillsdale College 7/28/2015
+1144 Hillsdale College
+1145 Georgia Regents University 8/6/2015
+1146 University of Cincinnati 7/27/2015
+1147 University of Cincinnati
+1148 Carleton College 8/7/2015
+1149 Carleton College
+1150 University of Michigan 8/7/2015
+1151 University of Michigan
+1152 University of Michigan
+1153 Eastern Kentucky University 8/7/2015
+1154 Eastern Kentucky University
+1155 St. Bonaventure University 8/7/2015
+AMERICAN MOCK TRIAL ASSOCIATION
+2016 TEAM NUMBERS
+1156 St. John's University 8/7/2015
+1157 St. John's University 12/29/2015
+1158 University of California, Davis 8/7/2015
+1159 University of California, Davis
+1160 Macalester College 6/1/2015
+1161 Macalester College
+1162 Macalester College
+1163 Macalester College 11/18/2015
+1164 North Central College 7/28/2015
+1165 University of West Florida 8/10/2015
+1166 College of the Holy Cross 8/9/2015
+1167 College of the Holy Cross
+1168 Furman University 8/8/2015
+1169 Furman University
+1170 Furman University
+1171 Creighton University 8/3/2015
+1172 Creighton University
+1173 University of Illinois, Urbana Champaign 7/30/2015
+1174 University of Illinois, Urbana Champaign
+1175 University of Illinois, Urbana Champaign
+1176 University of Wisconsin, Superior 8/3/2015
+1177 University of Wisconsin, Superior
+1178 University of Maryland, Baltimore County 7/23/2015
+1179 University of Maryland, Baltimore County
+1180 Seton Hall University 8/7/2015
+1181 Seton Hall University
+1182 Stetson University 7/31/2015
+1183 University of New Hampshire 8/10/2015
+1184 University of New Hampshire 12/29/2015
+1185 Carthage College 8/10/2015
+1186 Carthage College
+1187 Eastern Michigan University 8/10/2015
+1188 Eastern Michigan University
+1189 St. Louis University 6/12/2015
+1190 St. Louis University
+1191 University of Notre Dame 8/10/2015
+1192 University of Notre Dame
+1193 University of Notre Dame
+1194 University of Notre Dame
+1195 University of Washington 8/10/2015
+1196 University of Washington
+1197 Benedictine University 8/11/2015
+1198 Benedictine University (2nd Team)
+1199 University of Minnesota, Duluth 8/11/2015 2/2/2016
+1200 Wake Forest University 8/10/2015
+1201 Wake Forest University
+1202 U.S. Air Force Academy 6/17/2015
+1203 U.S. Air Force Academy
+1204 University of California, Riverside 8/11/2015
+1205 Pennsylvania State University, Altoona 7/18/2015
+1206 Alamance Community College 8/6/2015
+1207 Murray State University 8/6/2015
+AMERICAN MOCK TRIAL ASSOCIATION
+2016 TEAM NUMBERS
+1208 Kent State University 8/11/2015
+1209 Suffolk University 8/11/2015
+1210 Stanford University 8/11/2015
+1211 Stanford University
+1212 Boston University 8/12/2015
+1213 Boston University (2nd Team)
+1214 Boston University (3rd Team)
+1215 Siena College 8/13/2015
+1216 Hamilton College 8/13/2015
+1217 University of Toledo 8/13/2015
+1218 Collin College 8/13/2015 1/21/2016
+1219 Collin College 1/21/2016
+1220 Temple University 8/13/2015
+1221 Temple University
+1222 Lewis University 8/13/2015
+1223 Lewis University
+1224 Mississippi University for Women 8/13/2015
+1225 Lasell College 8/12/2015
+1226 University of Colorado, Boulder 8/12/2015
+1227 University of Colorado, Boulder
+1228 Xavier University 8/12/2015
+1229 Xavier University
+1230 Bradley University 8/13/2015
+1231 Ithaca College 8/13/2015
+1232 Ithaca College
+1233 Baylor University 8/12/2015
+1234 Baylor University (2nd Team)
+1235 Dickinson College 8/13/2015
+1236 Dickinson College (2nd Team)
+1237 University of Massachusetts, Amherst 8/13/2015
+1238 University of Massachusetts, Amherst
+1239 Mercer University 8/10/2015
+1240 Colgate University 8/14/15
+1241 Colgate University 1/30/2016
+1242 Drexel University 8/14/2015
+1243 Drexel University
+1244 Drexel University
+1245 Drexel University
+1246 Ohio Northern University 8/14/2015
+1247 Case Western Reserve University 8/17/2015
+1248 Case Western Reserve University
+1249 Case Western Reserve University 11/16/2015
+1250 University of Portland 8/17/2015
+1251 University of Portland
+1252 University of Minnesota, Morris 8/12/2015
+1253 University of Minnesota, Morris
+1254 California Polytechnic State University, San Luis Obispo 8/17/2015
+1255 California Polytechnic State University, San Luis Obispo
+1256 California Polytechnic State University, San Luis Obispo 1/28/2016
+1257 California Polytechnic State University, San Luis Obispo 1/8/2016
+1258 University of Scranton - new school 8/5/2015
+1259 University of Richmond 8/9/2015
+AMERICAN MOCK TRIAL ASSOCIATION
+2016 TEAM NUMBERS
+1260 University of Richmond
+1261 University of Richmond
+1262 Elizabethtown College 8/15/2015
+1263 Elizabethtown College
+1264 Manchester University 8/15/15
+1265 Hamline University 7/15/2015
+1266 Hamline University
+1267 Howard Payne University 8/17/2015
+1268 Monmouth University 8/18/15
+1269 Wheaton College 8/5/2015
+1270 University of South Florida 8/18/2015 1/27/2016
+1271 University of South Florida 1/27/2016
+1272 St. John Fisher 8/18/2015
+1273 Washington and Lee 8/18/2015
+1274 Washington and Lee
+1275 University of Kansas 8/18/2015
+1276 University of Kansas
+1277 University of Kansas
+1278 Valdosta State University 8/18/2015
+1279 Syracuse University 8/19/2015
+1280 Syracuse University
+1281 St. Catherine University 8/4/2015
+1282 Georgetown University 8/17/2015
+1283 Georgetown University
+1284 Georgetown University
+1285 Flagler College 8/15/2015
+1286 Quinnipiac University 8/15/2015
+1287 Princeton University 8/19/2015
+1288 Princeton University
+1289 Princeton University
+1290 Northwest Missouri State University 8/19/2015
+1291 Colorado College 8/19/2015
+1292 Colorado College
+1293 Philadelphia University 8/11/2015
+1294 University of Massachusetts, Lowell 8/20/2015
+1295 Truman State University 8/20/2015
+1296 Truman State University
+1297 Brandeis University 8/20/2015
+1298 Brandeis University
+1299 Brandeis University 12/14/2015
+1300 Brandeis University 12/14/2015
+1301 University of Wisconsin, Milwaukee 8/20/2015
+1302 Kennesaw State University 8/7/2015
+1303 University of North Carolina, Charlotte 8/20/2015
+1304 University of North Carolina, Charlotte
+1305 Washington State University 8/21/2015
+1306 University of New Haven 8/20/2015
+1307 SUNY Fredonia - New School 8/24/2015
+1308 Morningside College 8/19/2015
+1309 University of Wisconsin, Madison 8/7/2015
+1310 University of Idaho 8/24/2015
+1311 Wellesley College 8/24/2015
+AMERICAN MOCK TRIAL ASSOCIATION
+2016 TEAM NUMBERS
+1312 Wellesley College
+1313 University of Wisconsin, Milwaukee (2nd team) 8/20/15
+1314 University of Illinois, Chicago 8/17/2015
+1315 University of Illinois, Chicago
+1316 Culver-Stockton College 8/19/2015
+1317 University of Texas, Dallas 8/25/2015
+1318 University of Texas, Dallas
+1319 University of Texas, Dallas
+1320 Western Michigan University 8/25/2015
+1321 Western Michigan University 1/29/2016
+1322 Harris Stowe State University 8/21/2015
+1323 North Carolina State University 8/25/2015
+1324 University of California, San Diego 8/27/2015
+1325 University of California, San Diego
+1326 University of California, San Diego
+1327 University of Missouri, Columbia 8/4/2015
+1328 DePaul University 8/7/2015
+1329 DePaul University (2nd Team)
+1330 University of California, Los Angeles 8/20/2015
+1331 University of California, Los Angeles
+1332 University of California, Los Angeles
+1333 University of California, Los Angeles
+1334 University of California, Los Angeles
+1335 Washington University of St. Louis 7/28/2015
+1336 Washington University of St. Louis
+1337 California State University-Dominguez Hills 8/26/2015
+1338 University of Alabama, Birmingham 8/14/2015
+1339 University of Alabama, Birmingham
+1340 University of Central Florida 8/13/2015
+1341 University of Central Florida
+1342 University of Central Florida
+1343 University of Mississippi 8/16/2015
+1344 Susquehanna University 8/25/2015
+1345 St. Vincent College 8/19/2015
+1346 Allegheny College 8/16/2015
+1347 College of Charleston 8/28/2015 1/27/2016
+1348 Georgia State University 8/31/2015
+1349 Georgia State University 1/29/2016
+1350 Fairleigh Dickinson University 8/6/2015
+1351 High Point University 9/1/2015
+1352 Buffalo State College 8/27/2015
+1353 St. Xavier University 8/27/2015 2/9/2016
+1354 Indiana University, Bloomington 9/1/2015
+1355 Indiana University, Bloomington
+1356 Indiana University, Bloomington
+1357 Indiana University, Bloomington
+1358 Texas A&M University 8/13/2015
+1359 Texas A&M University
+1360 University of Arkansas
+1361 University of Arkansas 8/27/2015
+1362 Mount St. Mary's University (MD) 8/31/2015
+1363 Reed College 8/31/2015
+AMERICAN MOCK TRIAL ASSOCIATION
+2016 TEAM NUMBERS
+1364 Reed College
+1365 Northeastern State University 9/1/15
+1366 Westminster College 8/12/2015
+1367 Rhodes College 6/24/2015
+1368 Rhodes College
+1369 Rhodes College
+1370 Rhodes College
+1371 Bellarmine University 9/3/2015
+1372 Bellarmine University (2nd Team) 1/12/2016
+1373 Haverford College 8/20/2015
+1374 St. Olaf College 9/1/2015
+1375 Washington Adventist University 9/3/2015
+1376 Houston Baptist University 7/16/2015
+1377 Houston Baptist University 11/24/2015
+1378 Claremont McKenna College 7/25/2015
+1379 Claremont McKenna College
+1380 Claremont McKenna College
+1381 University of Pennsylvania 9/8/2015
+1382 University of Pennsylvania
+1383 University of Pennsylvania
+1384 Emory University 9/8/2015
+1385 Emory University
+1386 Bates College 9/8/2015 1/19/2016
+1387 University of Vermont 9/1/2015
+1388 University of Vermont
+1389 University of Oregon 8/7/2015
+1390 University of Oregon
+1391 University of St. Francis 8/18/2015
+1392 Canisius College 9/4/2015
+1393 Canisius College
+1394 Auburn University 7/28/2015
+1395 Auburn University (2nd Team)
+1396 Lafayette College 9/1/2015
+1397 Lafayette College 2/1/2016
+1398 Ball State University 9/10/2015
+1399 Loras College 8/17/2015
+1400 Loras College
+1401 Dartmouth College 8/12/2015
+1402 Dartmouth College (2nd Team) 1/18/2016
+1403 Trinity College 8/24/2015
+1404 University of Missouri, Columbia ( 2nd Team ) 9/13/2015
+1405 Ohio State University 9/13/2015
+1406 Ohio State University
+1407 Ohio State University
+1408 University of Tennessee, Chattanooga 9/15/2015
+1409 University of Tennessee, Chattanooga
+1410 University of Mobile 9/10/2015
+1411 St. Olaf College (2nd Team) 9/15/2015
+1412 University of North Dakota 9/10/2015
+1413 University of Southern California 9/15/2015
+1414 University of Southern California
+1415 University of Southern California
+AMERICAN MOCK TRIAL ASSOCIATION
+2016 TEAM NUMBERS
+1416 University of Southern California 1/13/2016
+1417 Stetson University (2nd Team) 9/15/2015
+1418 California State University, Los Angeles - new school 6/15/2015
+1419 Boston College 9/3/2015
+1420 Boston College (2nd Team)
+1421 Boston College (3rd Team)
+1422 Boston College (4th Team)
+1423 Indiana University of Pennsylvania 9/8/2015
+1424 Kutztown University of Pennsylvania 8/19/2015
+1425 Harvard University 9/19/2015
+1426 Harvard University 1/30/2016
+1427 Quincy University (2nd Team) 9/21/2015
+1428 University of St. Thomas (TX) 8/24/2015
+1429 University of Redlands 9/11/2015
+1430 Howard Payne University 2nd Team 9/21/2015
+1431 Millsaps College 3rd Team 9/21/2015
+1432 University of Oklahoma-New School 9/22/2015
+1433 University of Miami 9/21/2015 1/3/2016
+1434 Duquesne University 9/18/2015
+1435 Mount St. Mary's University (CA) 8/20/2015
+1436 Georgia College and State University 9/23/2015
+1437 Georgia College and State University
+1438 University of Denver 9/14/2015
+1439 University of Denver 12/8/2015
+1440 Edinboro University 8/5/2015
+1441 Franklin & Marshall College 9/24/2015
+1442 University of Kentucky 3rd tem 9/24/2015
+1443 Howard University 9/26/2015
+1444 Howard University
+1445 East Central University 9/28/2015 2/6/2016
+1446 SUNY Binghamton University 9/28/2015
+1447 SUNY Binghamton University
+1448 University of Arizona 6/26/2015
+1449 University of Arizona
+1450 California State Polytechnic Univ, Pomona 9/29/2015
+1451 California State Polytechnic Univ, Pomona
+1452 Loyola Marymount University 9/29/2015
+1453 City College of New York 8/27/2015
+1454 Culver-Stockton College 2nd team 9/29/2015 12/15/2015
+1455 Eastern Washington University 9/28/2015
+1456 Nova Southeastern University 9/29/2015 1/19/2016
+1457 Bryant University 9/24/2015
+1458 Davidson College 9/29/2015
+1459 Davidson College (2nd Team)
+1460 University of Iowa 9/29/2015
+1461 University of Iowa
+1462 University of Iowa
+1463 University of South Carolina 9/30/15
+1464 University of South Carolina
+1465 University of South Carolina
+1466 Northwood University 9/30/2015
+1467 Northwood University
+AMERICAN MOCK TRIAL ASSOCIATION
+2016 TEAM NUMBERS
+1468 University of Louisville 10/1/2015
+1469 SUNY Geneseo 10/1/2015
+1470 SUNY Geneseo
+1471 University of Texas, Austin 8/19/2015
+1472 University of Texas, Austin
+1473 Fresno State University (5th team) 10/1/2015 11/23/2015
+1474 Amherst College 9/28/2015
+1475 Amherst College (2nd Team)
+1476 Massachusetts Institute of Technology - new school 9/28/2015
+1477 Marymount Manhattan College 10/5/2015 1/22/2016
+1478 Wheaton College (2nd Team) 10/3/2015
+1479 Wheaton College (3rd Team)
+1480 Duke University 10/2/2015
+1481 Duke University
+1482 College of William & Mary 8/14/2015
+1483 College of William & Mary
+1484 College of William & Mary
+1485 Duke University (3rd Team) 10/2/2015
+1486 University of North Carolina, Chapel Hill 10/6/2015
+1487 University of North Carolina, Chapel Hill
+1488 University of North Carolina, Chapel Hill
+1489 University of North Carolina, Chapel Hill
+1490 University of Maine 10/6/2015
+1491 Northern Illinois University 10/6/2015
+1492 Northern Illinois University 1/20/2016
+1493 Gordon College 10/6/2015 1/18/2016
+1494 Kansas State University 8/18/2015
+1495 Grand Canyon University 10/1/2015
+1496 Bucknell University 8/26/2015
+1497 Connecticut College 10/1/2015
+1498 Connecticut College
+1499 University of Delaware 10/7/2015
+1500 University of Delaware
+1501 Southern Methodist University 8/11/2015
+1502 Southern Methodist University
+1503 Southern Methodist University
+1504 Furman University (4th Team) 10/7/2015
+1505 University of California, Berkeley 8/16/2015
+1506 University of California, Berkeley
+1507 University of California, Berkeley
+1508 University of California, Berkeley
+1509 Louisiana State University 9/3/2015
+1510 University of Bridgeport 8/23/2015
+1511 Ohio University - New School 9/17/2015
+1512 Ohio University - New School
+1513 University of Chicago 10/7/2015
+1514 University of Chicago
+1515 University of Chicago
+1516 University of Chicago
+1517 University of Florida (5th Team) 10/7/2015
+1518 Tulane University 8/27/2015
+AMERICAN MOCK TRIAL ASSOCIATION
+2016 TEAM NUMBERS
+1519 Tulane University
+1520 The New School 9/15/2015 1/13/2016
+1521 La Salle University 8/10/2015
+1522 La Salle University
+1523 New York University 10/8/2015
+1524 New York University
+1525 Missouri Southern State University (2nd Team) 10/10/2015
+1526 Pace University 10/9/2015
+1527 Pace University 10/9/15
+1528 Kansas State University (2nd Team) 10/9/2015 2/1/2016
+1529 Johns Hopkins University 8/9/2015
+1530 Johns Hopkins University
+1531 Johns Hopkins University
+1532 Swarthmore College (3rd Team) 10/9/2015
+1533 Mercyhurst University 10/11/2015
+1534 Northern Michigan University - New School 8/4/2015 1/11/2016
+1535 Scripps College 10/12/2015
+1536 Scripps College
+1537 University of Houston 10/12/2015
+1538 University of Houston
+1539 University of Texas, Arlington (2nd Team) 10/13/15 2/19/2016
+1540 Florida State University 10/9/2015
+1541 Florida State University
+1542 Florida State University
+1543 Pennsylvania State University, State College 10/13/15
+1544 Pennsylvania State University, State College
+1545 Pennsylvania State University, State College
+1546 Pennsylvania State University, State College
+1547 SUNY Oneonta 10/14/2015 2/2/2016
+1548 Western Illinois University 10/14/2015
+1549 Western Illinois University 11/3/2015
+1550 University of Connecticut 9/7/2015
+1551 Chemeketa Community College (2nd Team) 10/14/2015
+1552 Haverford College (2nd Team) 10/14/2015
+1553 Iowa State University 10/14/2015 1/16/2016
+1554 Wesleyan University 10/14/2015
+1555 Wesleyan University
+1556 Marquette University 10/14/15 2/12/16
+1557 University of Minnesota, Twin Cities 10/14/2015
+1558 University of Minnesota, Twin Cities
+1559 University of New Mexico 10/15/2015
+1560 University of New Mexico 2/19/2016
+1561 University of New Mexico 12/3/2015
+1562 Stockton University 10/14/0205 2/23/2016
+1563 Spelman College 9/18/2015
+1564 Spelman College 1/4/2016
+1565 University of California, Santa Cruz 10/10/2015
+1566 University of California, Santa Cruz 1/22/2016
+1567 University of Maryland, College Park (5th Team) 10/14/2015
+1568 American University 10/15/2015
+1569 American University
+1570 American University 
+AMERICAN MOCK TRIAL ASSOCIATION
+2016 TEAM NUMBERS
+1571 University of Georgia 10/15/2015
+1572 University of Georgia
+1573 University of Georgia
+1574 University of Georgia
+1575 Queens College 10/15/2015
+1576 University of Illinois, Springfield 10/15/2015
+1577 Emmanuel College 10/14/2015 12/14/2015
+1578 Indiana University Purdue University Indianapolis 10/15/2015
+1579 Indiana University Purdue University Indianapolis 1/3/2016
+1580 Saddleback College 10/15/2015 1/30/2016
+1581 Carnegie Mellon University 8/21/2015
+1582 Carnegie Mellon University
+1583 Rhodes College (5th Team) 10/15/2015
+1584 Schreiner University 9/21/2015
+1585 Oregon State 9/15/2015
+1586 University of Houston (3rd Team) 10/15/2015 1/25/2016
+1587 Lousiana State University (2nd Team) 10/15/2015 1/21/2016
+1588 Sonoma State 10/13/2015
+1589 San Diego State University 10/15/0215
+1590 San Diego State University 1/23/2016
+1591 University of Louisiana, Monroe (3rd Team) 10/15/2015
+1592 University of La Verne 8/15/2015
+1593 University at Albany 10/15/2015
+1594 Olivet Nazarene University 8/24/2015
+1595 Yale University 10/3/2015
+1596 Yale University 10/3/2015
+1597 Yale University 10/3/2015
+1598 Columbia College, S.C. 10/14/2015
+1599 Columbia College, S.C. 12/11/2015
+1600 University of the Pacific 10/15/2015 1/14/2016
+1601 Lake Forest College 10/15/2015 2/12/2016
+1602 University of Arizona (3rd Team) 10/15/2015
+1603 University of Arizona (4th Team) 2/1/2016
+1604 Palm Beach Atlantic University 10/9/2015
+1605 Kenyon College 9/3/2015 1/25/2016
+1606 U.S. Military Academy at West Point, NY 10/13/2015
+1607 Mercer University (2nd Team) 10/19/2015
+1608 Rutgers University 10/22/2015
+1609 Rutgers University
+1610 University of California, Irvine 10/26/2015
+1611 University of California, Irvine
+1612 University of Redlands (2nd Team) 10/26/2015 1/27/2016
+1613 Oglethorpe University 10/18/2015
+1614 University of Nebraska, Lincoln 10/30/2015
+1615 University of Nebraska, Lincoln 1/12/2016
+1616 California State University San Marcos 11/6/2015 1/24/2016
+1617 Michigan State University 11/9/2015
+1618 Michigan State University
+1619 Michigan State University
+1620 Arizona State University 11/9/2015
+1621 Arizona State University
+1622 Arizona State University
+AMERICAN MOCK TRIAL ASSOCIATION
+2016 TEAM NUMBERS
+1623 Wiley College 11/9/2015
+1624 Williams College 11/11/2015
+1625 Williams College
+1626 Rutgers University (3rd Team) 11/12/2015
+1627 Seminole State College 11/18/15 2/1/2016
+1628 Stony Brook University 11/19/2015
+1629 California University of Pennsylvania 11/23/2015
+1630 New York University (3rd Team) 11/24/2015
+1631 Oregon State University (2nd Team) 11/24/2015
+1632 University of Nevada, Las Vegas 11/27/2015
+1633 University of Nevada, Las Vegas
+1634 Yale University (4th Team) 11/29/2015 12/15/2015
+1635 Colby College 12/1/2015
+1636 University of California, Santa Barbara 12/4/2015
+1637 University of California, Santa Barbara 12/4/2015
+1638 Pomona College 12/7/2015
+1639 Pomona College
+1640 Pomona College
+1641 College of St. Benedict/St. John's University (2nd Team) 11/24/2015
+1642 Gettysburg College 12/8/2015
+1643 U.S. Coast Guard Academy 12/9/2015
+1644 University of California- Riverside (2nd Team) 12/9/2015 1/6/2016
+1645 Pepperdine University (2nd Team) 12/8/2015
+1646 Northeastern University 12/9/2015
+1647 University of Oregon (3rd Team) 12/7/2015
+1648 Grinnell College (3rd Team) 12/4/2015 1/22/2016
+1649 Quinnipiac University B 12/15/2015
+1650 Benedictine University (3rd team) 12/18/2015
+1651 Providence College 12/3/2015 1/25/2016
+1652 Drake University (4th Team) 11/24/2015
+1653 U.S. Air Force Academy C 1/8/2016
+1654 Grand Canyon University (2nd Team) 1/11/2016
+1655 Stony Brook University B 1/10/2016 1/29/2016
+1656 Fordham University, Rose Hill 1/12/2016
+1657 Fordham University, Rose Hill 1/12/2016
+1658 The King's College 1/15/2016
+1659 Campbell University 1/15/2016
+1660 Mount Aloysious College 12/21/2015 2/9/2016
+1661 Southwestern University 1/15/2016 1/29/2016
+1662 Texas Tech University 1/5/2016
+1663 University of Mississippi (2nd Team) 12/1/2015

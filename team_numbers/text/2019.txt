@@ -1,0 +1,720 @@
+Team # SCHOOL DATE REG./PAID DROP DATE
+1001 University of Virginia A 5/4/2018
+1002 University of Virginia B
+1003 Millsaps College A 5/4/2018
+1004 Millsaps College B
+1005 Millsaps College C
+1006 Missouri Southern State University A 5/7/2018
+1007 Missouri Southern State University B
+1008 Texas A&M University A 5/9/2018
+1009 Texas A&M University B
+1010 Texas A&M University C
+1011 Loyola University-Chicago A 5/11/2018
+1012 Loyola University-Chicago B
+1013 Loyola University-Chicago C
+1014 Sonoma State University A 5/11/2018
+1015 The Catholic University of America A 5/14/2018
+1016 Wheaton College A 5/14/2018
+1017 Wheaton College B
+1018 Wheaton College C  10/1/2018
+1019 Allegheny College A 5/14/2018
+1020 Juniata College A 5/16/2018
+1021 Miami University A 5/18/2018
+1022 Miami University B
+1023 Miami University C
+1024 Middle Tennessee State University A 5/22/2018
+1025 Middle Tennessee State University B
+1026 Quincy University A 5/22/2018
+1027 Quincy University B
+1028 University of Central Missouri A 5/22/2018
+1029 Cornell University A 5/23/2018
+1030 Cornell University B
+1031 Cornell University C
+1032 U.S. Air Force Academy A 5/23/2018
+1033 U.S. Air Force Academy B
+1034 Central Michigan University A 5/30/2018
+1035 Macalester College A 6/1/2018
+1036 Macalester College B
+1037 Macalester College C
+1038 Macalester College D  11/22/2018
+1039 Stanford University A 6/1/2018
+1040 Stanford University B
+1041 Columbia College (MO) A 6/5/2018
+1042 Coastal Carolina University A 6/8/2018
+1043 Coastal Carolina University B
+1044 Siena College A 6/4/2018
+1045 Fordham University, Rose Hill A 6/11/2018
+1046 Fordham University, Rose Hill B
+1047 University of Arizona A 6/11/2018
+1048 University of Arizona B
+1049 University of Arizona C
+1050 University of Arizona D
+1051 Haverford College A 6/12/2018
+1052 Haverford College B
+1053 Haverford College C  11/11/2018
+1054 Auburn University A 6/15/2018
+1055 Auburn University B
+1056 Samford University A 6/15/2018
+1057 Samford University B
+1058 St. Norbert College A 6/18/2018
+1059 St. Norbert College B
+1060 Illinois State University A 6/18/2018
+1061 Carleton College A 06/19/2018
+1062 Carleton College B
+1063 University of Maryland, Baltimore County A 6/19/2018
+1064 University of Maryland, Baltimore County B
+1065 College of William & Mary A 6/6/2018
+1066 College of William & Mary B
+1067 College of William & Mary C
+1068 College of Saint Rose A 6/25/2018
+1069 College of Saint Rose B
+1070 Arizona State University A 6/26/2018
+1071 Arizona State University B
+1072 Arizona State University C
+1073 Arizona State University D
+1074 University of Illinois A 6/27/2018
+1075 University of Illinois B
+1076 University of Illinois C
+1077 North Central College A 6/28/2018
+1078 Rhodes College A 7/1/2018
+1079 Rhodes College B
+1080 Rhodes College C
+1081 Rhodes College D
+1082 Rhodes College E  11/04/2018
+1083 Luther College A 7/2/2018
+1084 Luther College B
+1085 SUNY, Binghamton A 7/2/2018
+1086 SUNY, Binghamton B
+1087 Dillard University A 07/02/2018
+1088 U.S. Military Academy at West Point, NY A 7/5/2018
+1089 Lasell College A 7/5/2018
+1090 University of Central Florida A 7/5/2018
+1091 University of Central Florida B
+1092 University of Central Florida C
+1093 University of California, Santa Barbara A 7/6/2018
+1094 University of California, Santa Barbara B
+1095 University of Minnesota, Duluth A 7/9/2018
+1096 Creighton University A 7/10/2018
+1097 Creighton University B
+1098 Iona College A 7/12/2018
+1099 Grinnell College A 7/16/2018
+1100 Grinnell College B
+1101 Elmhurst College A 7/16/2018
+1102 Susquehanna University A 7/16/2018
+1103 Susquehanna University B
+1104 Upper Iowa University A 7/16/2018
+1105 Chemeketa Community College A 7/17/2018
+1106 University of Redlands A 7/19/2018
+1107 University of Redlands B
+1108 Dickinson College A 7/20/2018
+1109 Dickinson College B
+1110 George Washington University A 7/20/2018
+1111 George Washington University B
+1112 George Washington University C
+1113 Ursinus College A 7/23/2018
+1114 Culver-Stockton College A 7/23/2018
+1115 Baylor University A 7/23/2018
+1116 Baylor University B
+1117 University of Florida A 7/23/2018
+1118 University of Florida B
+1119 University of Florida C
+1120 University of Florida D
+1121 University of Florida E
+1122 Quinnipiac University A 7/23/2018
+1123 Washington University in St. Louis A 7/23/2018
+1124 Washington University in St. Louis B
+1125 University of Texas, Arlington A 7/23/2018
+1126 Hillsdale College A 7/23/2018
+1127 Hillsdale College B
+1128 Cal Poly, San Luis Obispo A 7/24/2018
+1129 Cal Poly, San Luis Obispo B
+1130 Cal Poly, San Luis Obispo C
+1131 Cal Poly, San Luis Obispo D
+1132 Cal Poly, San Luis Obispo E  12/11/2018
+1133 Furman University A 7/24/2018
+1134 Furman University B
+1135 Furman University C
+1136 Pennsylvania State University A 7/25/2018
+1137 Pennsylvania State University B
+1138 Pennsylvania State University C
+1139 Pennsylvania State University D
+1140 University of New Haven A 7/24/2018
+1141 Fordham University, Lincoln Center A 7/25/2018
+1142 Fordham University, Lincoln Center B
+1143 University of Dayton A 7/26/2018
+1144 University of Dayton B
+1145 Roger Williams University A 7/30/2018
+1146 Northern Illinois University A 7/27/2018
+1147 Northern Illinois University B
+1148 Indiana University Purdue University Indianapolis A 7/30/2018
+1149 Indiana University Purdue University Indianapolis B
+1150 University of Rochester A 7/31/2018
+1151 University of Rochester B
+1152 University of Rochester C
+1153 Washburn University A 7/31/2018
+1154 DePaul University A 7/31/2018
+1155 University of Wisconsin, Eau Claire A 8/1/2018
+1156 University of Tennessee A 8/1/2018
+1157 University of Tennessee B
+1158 University of Tennessee C
+1159 University of Colorado, Colorado Springs A 8/1/2018
+1160 La Salle University A 8/1/2018
+1161 La Salle University B
+1162 Elizabethtown College A 8/1/2018
+1163 Elizabethtown College B  11/26/2018
+1164 University of Texas, Dallas A 8/1/2018
+1165 University of Texas, Dallas B
+1166 University of Texas, Dallas C
+1167 Case Western Reserve University A 8/7/2018
+1168 Case Western Reserve University B
+1169 Case Western Reserve University C
+1170 University of Massachusetts, Lowell A 8/2/2018
+1171 University of Louisiana, Monroe A 8/2/2018
+1172 University of Louisiana, Monroe B
+1173 Vanderbilt University A 8/2/2018
+1174 Vanderbilt University B
+1175 Vanderbilt University C  9/10/2018
+1176 Oregon State University A 8/2/2018
+1177 Oregon State University B
+1178 University of Scranton A 8/3/2018
+1179 University of Minnesota A 8/4/2018
+1180 University of Minnesota B
+1181 University of Minnesota C
+1182 Central College A 8/5/2018
+1183 Fresno State University A 8/6/2018
+1184 Fresno State University B
+1185 Fresno State University C
+1186 Fresno State University D
+1187 Fresno State University E
+1188 Fresno State University F
+1189 St. Bonaventure University A 8/6/2018
+1190 Carnegie Mellon University A 8/6/2018
+1191 Carnegie Mellon University B
+1192 Northwest Missouri State University A 8/6/2018
+1193 Clark University A 8/6/2018
+1194 Clark University B
+1195 Wellesley College A 8/6/2018
+1196 Wellesley College B
+1197 Juniata College B 8/7/2018
+1198 University of Notre Dame A 8/7/2018
+1199 University of Notre Dame B
+1200 University of Notre Dame C
+1201 Brandeis University A 8/7/2018
+1202 Brandeis University B
+1203 Brandeis University C
+1204 Brandeis University D
+1205 Bowdoin College A 8/7/2018
+1206 Bowdoin College B
+1207 Manchester University A 8/7/2018
+1208 St. Ambrose University A 8/7/2018
+1209 College of the Holy Cross A 8/8/2018
+1210 College of the Holy Cross B
+1211 Washington and Lee University A 8/8/2018
+1212 Washington and Lee University B
+1213 University of Wisconsin, Milwaukee A 8/8/2018
+1214 University of Wisconsin, Milwaukee B
+1215 University of Wisconsin, Superior A 7/31/2018
+1216 University of Wisconsin, Superior B  9/24/2018
+1217 Northwood University A 8/8/2018
+1218 Northwood University B
+1219 University of Vermont A 8/8/2018
+1220 University of Vermont B
+1221 Florida International University A 8/9/2018
+1222 Florida International University B
+1223 Ohio Northern University A 8/9/2018
+1224 University of Michigan A 8/9/2018
+1225 University of Michigan B
+1226 University of Michigan C
+1227 University of Missouri A 8/9/2018
+1228 University of Missouri B
+1229 Patrick Henry College A 8/9/2018
+1230 Patrick Henry College B
+1231 Patrick Henry College C
+1232 Patrick Henry College D
+1233 Gonzaga University A 8/10/2018
+1234 Gonzaga University B
+1235 Gonzaga University C
+1236 Alamance Community College A 8/10/2018
+1237 Reed College A 8/10/2018
+1238 Indiana University A 8/11/2018
+1239 Indiana University B
+1240 Indiana University C
+1241 Indiana University D
+1242 Xavier University A 8/12/2018
+1243 Xavier University B
+1244 Fairleigh Dickinson University A 8/13/2018
+1245 Ohio University A 8/13/2018
+1246 Ohio University B
+1247 St. John's University A 8/13/2018
+1248 University of St. Thomas (MN) A 8/13/2018
+1249 University of St. Thomas (MN) B
+1250 Bellarmine University A 8/13/2018
+1251 Bellarmine University B
+1252 Colgate University A 8/13/2018
+1253 Lafayette College A 8/13/2018
+1254 Lafayette College B
+1255 Mississippi University for Women A 8/13/2018
+1256 Palm Beach Atlantic University A 8/13/2018
+1257 Shippensburg University A 8/13/2018
+1258 University of California, Berkeley A 8/13/2018
+1259 University of California, Berkeley B
+1260 University of California, Berkeley C
+1261 University of California, Berkeley D
+1262 Tufts University A 8/13/2018
+1263 Tufts University B
+1264 Tufts University C
+1265 Tufts University D  11/21/2018
+1266 Wake Forest University A 8/13/2018
+1267 Wake Forest University B
+1268 Columbia University A 8/13/2018
+1269 Columbia University B
+1270 Eastern Kentucky University A 8/13/2018
+1271 Eastern Kentucky University B
+1272 Eastern Michigan University A 8/13/2018
+1273 Eastern Michigan University B
+1274 University of Tennessee, Chattanooga A 8/13/2018
+1275 University of Tennessee, Chattanooga B
+1276 University of Texas A 8/13/2018
+1277 University of Texas B
+1278 Winona State University A 8/13/2018
+1279 Central Washington University A 8/14/2018
+1280 Liberty University A 8/14/2018
+1281 Mercer University A 8/14/2018
+1282 Mercer University B
+1283 SUNY, Fredonia A 8/14/2018
+1284 Murray State University A 8/14/2018
+1285 College of St. Benedict/St. John's University A 8/14/2018
+1286 Boston University A 8/14/2018
+1287 Boston University B
+1288 Boston University C
+1289 Carthage College A 08/14/2018
+1290 Carthage College B
+1291 University of Houston A 8/14/2018
+1292 University of Houston B  10/13/2018
+1293 University of Kentucky A 8/15/2018
+1294 Lee University A 8/15/2018
+1295 Lee University B
+1296 Hamline University A 8/15/2018
+1297 Hamline University B
+1298 Hamline University C
+1299 University of St. Francis A 8/15/2018
+1300 University of Mississippi A 8/16/2018
+1301 University of Mississippi B
+1302 Austin College A 8/16/2018
+1303 Austin College B
+1304 University of Pennsylvania A 8/16/2018
+1305 University of Pennsylvania B
+1306 University of Pennsylvania C
+1307 University of Illinois, Springfield A 8/16/2018
+1308 University of Illinois, Springfield B  11/19/2018
+1309 Villanova University A 8/17/2018
+1310 New Jersey City University A 8/17/2018
+1311 New Jersey City University B
+1312 Kennesaw State University A 8/17/2018
+1313 Washington & Jefferson College A 8/17/2018
+1314 Washington & Jefferson College B
+1315 University of South Carolina A 8/17/2018
+1316 University of South Carolina B
+1317 University of South Carolina C
+1318 Moorpark College A 8/19/2018
+1319 Mount St. Mary's University (CA) A 8/19/2018
+1320 University of Massachusetts, Amherst A 8/19/2018
+1321 University of Massachusetts, Amherst B
+1322 University of Massachusetts, Amherst C
+1323 St. Xavier University A 8/20/2018
+1324 Bucknell University A 8/20/2018
+1325 Bucknell University B
+1326 Georgia State University A 8/20/2018
+1327 Georgia State University B
+1328 Georgetown University A 8/20/2018
+1329 Georgetown University B
+1330 Georgetown University C
+1331 Western Michigan University A 8/20/2018
+1332 Western Michigan University B
+1333 University of South Dakota A 8/20/2018
+1334 University of South Dakota B
+1335 Colby College A 8/20/2018
+1336 Colby College B
+1337 Truman State University A 8/20/2018
+1338 Truman State University B
+1339 Nova Southeastern University A 8/20/2018
+1340 Nova Southeastern University B
+1341 University of Washington A 8/20/2018
+1342 University of Washington B
+1343 University of Washington C
+1344 SUNY, Albany A 8/21/2018
+1345 SUNY, Albany B
+1346 Oklahoma Christian University A 8/22/2018
+1347 University of South Florida A 8/21/2018
+1348 University of South Florida B
+1349 Ithaca College A 8/23/2018
+1350 Ithaca College B
+1351 Temple University A 8/23/2018
+1352 Temple University B
+1353 University of Portland A 8/23/2018
+1354 University of Portland B
+1355 University of Portland C
+1356 University of North Carolina, Charlotte A 8/23/2018
+1357 Mount Aloysius College A 8/23/2018
+1358 Hendrix College A 8/24/2018
+1359 Hendrix College B  12/4/2018
+1360 Dartmouth College A 8/24/2018
+1361 Dartmouth College B
+1362 Simpson College A 8/26/2018
+1363 East Central University A 8/27/2018
+1364 Elon University A 8/27/2018
+1365 Elon University B
+1366 Campbell University A 8/27/2018
+1367 Campbell University B
+1368 Rice University A 8/27/2018
+1369 Stockton University A 8/27/2018
+1370 San Diego State University A 8/27/2018
+1371 University of Illinois, Chicago A 8/27/2018
+1372 University of Illinois, Chicago B
+1373 Howard Payne University A 8/28/2018
+1374 College of Charleston A 8/28/2018
+1375 University of Minnesota, Morris A 8/28/2018
+1376 University of Minnesota, Morris B
+1377 Austin College C 8/28/2018
+1378 Gettysburg College A 8/29/2018
+1379 University of North Alabama A 8/29/2018
+1380 Florida State University A 8/30/2018
+1381 Florida State University B
+1382 Florida State University C
+1383 Amherst College A 8/30/2018
+1384 Amherst College B
+1385 Colorado College A 8/30/2018
+1386 Colorado College B
+1387 Stonehill College A 8/30/2018
+1388 University of Pittsburgh A 8/30/2018
+1389 University of Pittsburgh B
+1390 Indiana University Purdue University Indianapolis C 8/30/2018 9/5/2018
+1391 University of West Florida A 8/31/2018
+1392 St. Vincent College A 8/31/2018
+1393 Mississippi Valley State University A 8/31/2018
+1394 Western Kentucky University A 8/31/2018
+1395 Western Kentucky University B
+1396 University of Iowa A 9/4/2018
+1397 University of Iowa B
+1398 University of Iowa C
+1399 University of Iowa D
+1400 University of Connecticut A 9/4/2018
+1401 University of Connecticut B
+1402 University of North Dakota A 9/4/2018
+1403 Houston Baptist University A 9/5/2018
+1404 Lewis University A 9/5/2018
+1405 Lewis University B
+1406 Canisius College A 9/6/2018
+1407 Canisius College B
+1408 Washburn University B 9/6/2018
+1409 Spelman College A 9/6/2018
+1410 Ohio State University A 9/7/2018
+1411 Ohio State University B
+1412 Ohio State University C
+1413 Duquesne University A 9/10/2018
+1414 Southwestern University A 9/10/2018
+1415 St. John Fisher A 9/10/2018
+1416 Louisiana State University A 9/10/2018
+1417 Louisiana State University B
+1418 Howard University A 9/10/2018
+1419 Howard University B
+1420 University of Tennessee D 9/10/2018 11/12/2018
+1421 Loyola Marymount University A 9/10/2018
+1422 Loyola Marymount University B
+1423 University of Nevada, Las Vegas A 9/10/2018
+1424 University of Nevada, Las Vegas B
+1425 University of Toledo A 9/10/2018
+1426 Harris Stowe State University A 9/11/2018
+1427 Liberty University B 9/10/2018
+1428 Cornell College A 9/11/2018
+1429 Cornell College B
+1430 Cornell College C
+1431 Collin College A 9/11/2018
+1432 Duquesne University B 9/11/2018
+1433 Trinity College A 9/12/2018
+1434 Ohio Northern University B 9/13/2018 11/21/2018
+1435 Washington State University A 912/2018
+1436 Rochester Institute of Technology A 9/13/2018
+1437 Cal Poly, Pomona A 9/13/2018
+1438 Cal Poly, Pomona B
+1439 U.S. Coast Guard Academy A 9/13/2018
+1440 Belmont University A 9/14/2018
+1441 Stevenson University A 9/17/2018
+1442 Stevenson University B
+1443 University of Alabama A 9/17/2018
+1444 University of Alabama B
+1445 University of Alabama C
+1446 University of St. Thomas (TX) A 9/17/2018
+1447 Pomona College A 9/17/2018
+1448 Pomona College B
+1449 Adrian College A 9/17/2018
+1450 University of Wisconsin, Madison A 9/17/2018
+1451 University of Wisconsin, Madison B
+1452 University of Colorado, Colorado Springs B 9/17/2018
+1453 Furman University D 9/18/2018
+1454 University of Kansas A 9/18/2018
+1455 University of Kansas B
+1456 University of Kansas C
+1457 Western Illinois University A 9/18/2018
+1458 University of Nebraska A 9/18/2018
+1459 University of South Carolina Upstate A 9/19/2018
+1460 Westminster College A 9/19/2018
+1461 Tulane University A 9/20/2018
+1462 Southern Methodist University A 9/20/2018
+1463 Southern Methodist University B
+1464 Southern Methodist University C  11/15/2018
+1465 SUNY, Geneseo A 9/20/2018
+1466 SUNY, Geneseo B
+1467 University of California, Santa Cruz A 9/20/2018
+1468 Buffalo State College A 9/20/2018
+1469 Belmont University B 9/20/2018
+1470 University of Oregon A 9/21/2018
+1471 University of Oregon B
+1472 University of Oregon C
+1473 University of Oregon D
+1474 The King's College A 9/21/2018
+1475 Seton Hall University A 9/23/2018
+1476 Seton Hall University B
+1477 University of Bridgeport A 9/23/2018
+1478 Abraham Baldwin Agricultural College A 9/24/2018
+1479 Edinboro University A 9/24/2018
+1480 Pace University A 9/24/2018
+1481 Hamilton College A 9/24/2018
+1482 Hamilton College B
+1483 Weber State University A 9/24/2018
+1484 St. Catherine University A 9/25/2018
+1485 University of Mobile A 9/25/2018
+1486 Towson University A 9/26/2018
+1487 Purdue University A 9/26/2018
+1488 Kent State University A 9/27/2018
+1489 Brown University A 9/27/2018
+1490 Brown University B
+1491 Brown University C
+1492 University of California, Los Angeles A 9/27/2018
+1493 University of California, Los Angeles B
+1494 University of California, Los Angeles C
+1495 University of California, Los Angeles D
+1496 University of California, Los Angeles E
+1497 Dickinson College C 9/28/2018
+1498 High Point University A 10/1/2018
+1499 Indiana University of Pennsylvania A 10/1/2018
+1500 Loras College A 10/1/2018
+1501 Morningside College A 10/1/2018
+1502 Reed College B 10/1/2018
+1503 University of Denver A 10/2/2018
+1504 University of Denver B
+1505 Suffolk University A 10/2/2018
+1506 New York University A 10/2/2018
+1507 New York University B
+1508 New York University C
+1509 Georgetown College A 10/2/2018
+1510 Michigan State University A 10/2/2018
+1511 Michigan State University B
+1512 Michigan State University C
+1513 Michigan State University D
+1514 Mississippi College A 10/2/2018
+1515 MIT A 10/2/2018
+1516 MIT B
+1517 University of California, Irvine A 10/3/2018
+1518 University of California, Irvine B
+1519 University of California, Irvine C
+1520 University of California, Irvine D
+1521 Emory University A 10/3/2018
+1522 Emory University B
+1523 Emory University C
+1524 University of North Carolina A 10/3/2018
+1525 University of North Carolina B
+1526 University of North Carolina C
+1527 University of North Carolina D
+1528 Trinity University A 10/3/2018
+1529 Trinity University B
+1530 Duke University A 10/3/2018
+1531 Duke University B
+1532 Duke University C
+1533 University of Maryland A 10/3/2018
+1534 University of Maryland B
+1535 University of Maryland C
+1536 University of Maryland D
+1537 Elmira College A 10/3/2018
+1538 University of Maryland, Baltimore County C 10/4/2018
+1539 Towson University B 10/4/2018
+1540 Wesleyan University A 10/4/2018
+1541 Wesleyan University B
+1542 Wesleyan University C
+1543 Davidson College A 10/5/2018
+1544 Davidson College B
+1545 Davidson College C
+1546 Ball State University A 10/4/2018
+1547 Arcadia University A 10/5/2018
+1548 Washington Adventist University A 10/5/2018
+1549 American University A 10/5/2018
+1550 American University B
+1551 American University C
+1552 University of Nebraska B 10/5/2018
+1553 University of Georgia A 10/5/2018
+1554 University of Georgia B
+1555 University of Georgia C
+1556 University of Georgia D
+1557 Harvard University A 10/5/2018
+1558 Harvard University B
+1559 Middlebury College A 10/5/2018
+1560 University of Missouri, Kansas City A 10/6/2018
+1561 Tulane University B 10/9/2018
+1562 Flagler College A 10/9/2018
+1563 Flagler College B
+1564 St. Louis University A 10/9/2018
+1565 St. Louis University B
+1566 University of Cincinnati A 10/9/2018
+1567 University of Cincinnati B
+1568 University of Cincinnati C
+1569 Georgia Tech A 10/10/2018
+1570 Georgia Tech B
+1571 Georgia Tech C
+1572 Georgia Tech D
+1573 University of Northern Iowa A 10/10/2018 11/26/2018
+1574 University of Northern Iowa B
+1575 Central College B 10/10/2018 12/6/2018
+1576 Rio Hondo College A 10/10/2018
+1577 Yale University A 10/10/2018
+1578 Yale University B
+1579 Yale University C
+1580 University of Colorado A 10/10/2018
+1581 University of Colorado B
+1582 University of Colorado C
+1583 Colorado Mesa University A 10/10/2018
+1584 Scripps College A 10/11/2018
+1585 Scripps College B
+1586 Connecticut College A 10/11/2018
+1587 LeMoyne-Owen College A 10/11/2018
+1588 Rutgers University A 10/11/2018
+1589 Rutgers University B
+1590 Rutgers University C
+1591 Bryn Mawr College A 10/12/2018
+1592 Eastern Washington University A 10/12/2018
+1593 University of South Carolina Upstate B 10/12/2018
+1594 Northern Michigan University A 10/12/2018
+1595 Amherst College C 10/12/2018
+1596 Texas Tech University A 10/12/2018
+1597 Williams College A 10/12/2018
+1598 Williams College B
+1599 Central Washington University B 10/12/2018
+1600 Vassar College A 10/12/2018
+1601 Orange Coast College A 10/12/2018
+1602 North Central University A 10/12/2018
+1603 Princeton University A 10/12/2018
+1604 Princeton University B
+1605 Princeton University C
+1606 Santa Clara University A 10/12/2018
+1607 Santa Clara University B
+1608 Culver-Stockton College B 10/14/2018
+1609 Rutgers University D 10/14/2018
+1610 California State University, Northridge A 10/12/2018
+1611 SUNY, Oneonta A 10/15/2018
+1612 Syracuse University A 10/15/2018
+1613 Syracuse University B
+1614 Drake University A 10/15/2018
+1615 Drake University B
+1616 University of Chicago A 10/15/2018
+1617 University of Chicago B
+1618 University of Chicago C
+1619 University of Chicago D
+1620 La Salle University C 10/15/2018
+1621 St. Olaf College A 10/15/2018
+1622 St. Olaf College B
+1623 Franklin & Marshall College A 10/15/2018
+1624 Lehigh University A 10/15/2018
+1625 Lehigh University B
+1626 Georgia College and State University A 10/15/2018
+1627 Georgia College and State University B
+1628 Molloy College A 10/15/2018
+1629 Concordia College A 10/15/2018
+1630 Eastern Michigan University C 10/15/2018
+1631 Monmouth University A 10/15/2018
+1632 Harvey Mudd College A 10/15/2018
+1633 University of Southern California A 10/15/2018
+1634 University of Southern California B
+1635 University of Southern California C
+1636 Purdue University B 10/15/2018 11/27/2018
+1637 College of the Sequoias A 10/15/2018
+1638 Baylor University C 10/15/2018
+1639 Eastern Kentucky University C 10/15/2018
+1640 University of Texas, Rio Grande Valley (Pan-American) A 10/15/2018
+1641 St. Bonaventure University B 10/15/2018
+1642 University of Oklahoma A 10/15/2018
+1643 University of Idaho A 10/15/2018
+1644 Washington College A 10/15/2018
+1645 University of Kentucky B 10/15/2018
+1646 Boston College A 10/15/2018
+1647 Boston College B
+1648 Boston College C
+1649 Boston College D
+1650 Bryant University A 10/15/2018
+1651 Southwestern University B 10/15/2018
+1652 Johns Hopkins University A 10/15/2018
+1653 Johns Hopkins University B
+1654 Johns Hopkins University C
+1655 Johns Hopkins University D
+1656 Grand Canyon University A 10/15/2018
+1657 Grand Canyon University B
+1658 Grand Canyon University C
+1659 Drexel University A 10/15/2018
+1660 Drexel University B
+1661 Drexel University C
+1662 Drexel University D  12/12/2018
+1663 Occidental College A 10/15/2018
+1664 Occidental College B
+1665 University of California, Riverside A 10/15/2018
+1666 University of Texas, El Paso A 10/15/2018
+1667 Bethany Lutheran College A 10/15/2018
+1668 University of Richmond A 10/15/2018
+1669 University of Richmond B
+1670 University of Richmond C
+1671 Wisconsin Lutheran College A 10/15/2018
+1672 Northwest Missouri State University B 10/19/2018
+1673 University of Nevada, Reno A 10/19/2018
+1674 Valparaiso University A 10/22/2018
+1675 North Carolina A&T University A 10/22/2018
+1676 Utica College A 10/23/2018
+1677 California State University Channel Islands A 10/23/2018
+1678 Pepperdine University A 10/25/2018
+1679 University of California, San Diego A 10/31/2018
+1680 University of California, San Diego B
+1681 University of California, San Diego C
+1682 Grinnell College C 10/31/2018
+1683 Rice University B 11/6/2018
+1684 Rice University C
+1685 Claremont McKenna College A 11/7/2018
+1686 Claremont McKenna College B
+1687 University of California, Davis A 11/7/2018
+1688 University of California, Davis B
+1689 Western State Colorado University A 11/12/2018
+1690 Florida State University D 11/12/2018
+1691 University of California, Riverside B 11/13/2018
+1692 University of New Mexico A 11/14/2018
+1693 Northwestern University A 11/15/2018
+1694 Northwestern University B
+1695 Northwestern University C
+1696 Washington University in St. Louis C 11/19/2018
+1697 Dillard University B 11/19/2018
+1698 Upper Iowa University B 11/20/2018
+1699 University of New Hampshire A 11/21/2018
+1700 Louisiana State University C 11/21/2018
+1701 University of Arkansas A 11/21/2018
+1702 University of Arkansas B
+1703 University of Delaware A 11/22/2018
+1704 University of Delaware B
+1705 Marquette University A 11/25/2018
+1706 University of San Francisco A 11/26/2018
+1707 University of San Francisco B
+1708 Palm Beach Atlantic University B 11/27/2018
+1709 University of Miami A 11/29/2018
+1710 University of Louisville A 11/29/2018
+1711 Washington State University B 11/30/2018
+1712 Pomona College C 12/3/2018
+1713 San Diego State University B 12/3/2018
+1714 Loras College B 12/4/2018
+1715 University of California, Davis C 12/4/2018
+1716 Queens College A 12/10/2018
+1717 Queens College B  12/12/2018
+1718 Arizona State University E 12/10/2018
+1719 SUNY, Buffalo A 12/11/2018 
