@@ -36,12 +36,12 @@ Univ. of Tennessee, Knoxville W W L L L L W L CS OCS PD
 1169 Δ v. 1533 Π v. 1067 Π v. 1096 Δ v. 1125 4 - 4 - 0
 University of South Florida W W W L W L L L CS OCS PD
 32 14 2 -27 2 -12 -5 -19 19 65.5 -13
-1170 Π v. 1126 Δ v. 1007 v. v. 0 - 8 - 0
+1170 Π v. 1126 Δ v. 1007 ∆ v. 1170 ∆ v. 1170 0 - 8 - 0
 Flagler College L L L L L L L L CS OCS PD
--16 -7 -29 -26 -1 -1 -1 -1 7.5 31 -82
-1171 Δ v. 1335 Π v. 1399 v. v. 1 - 5 - 2
+-16 -7 -29 -26 -1 -1 -1 -1 0 0 7.5 31 -82
+1171 Δ v. 1335 Π v. 1399 ∆ v. 1170 ∆ v. 1170 1 - 5 - 2
 Flagler College W L L L T L T L CS OCS PD
-2 -7 -23 -8 0 -1 0 -1 8.5 24.5 -38
+2 -7 -23 -8 0 -1 0 -1 0 0 8.5 24.5 -38
 1186 Δ v. 1079 Π v. 1080 Π v. 1533 Δ v. 1502 2 - 6 - 0
 Nova Southeastern University L L L L W W L L CS OCS PD
 -38 -9 -8 -5 21 4 -15 -24 11 64 -74

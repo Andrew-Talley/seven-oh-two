@@ -148,22 +148,22 @@ Awarded to the team that best exemplifies the ideals of honesty, civility and fa
 27 1219 Haverford College Honorable Mention
 Outstanding Witnesses
 Points Side Name School
-20  Ciara Lopez
-19  Meric Pope The King's College
-19  Adam Varoqua Seton Hall University
-17  Sandra Jovic Fordham Univ., Lincoln Center
-17  Alexia Seepersaud Fordham University, Rose Hill
-17  Elizabeth Weinman Fordham Univ., Lincoln Center
-17  Katja Custodio Pace University
-16  Talha Mukhtar Drexel University
-16  Alyssa Kurke American University
-16  Ashley Yanda Pace University
-16  Nicholas Munves Haverford College
-16  Rajan Gupta Seton Hall University
-16  Catie Shoemaker The King's College
-16  Michael Fagan Fordham Univ., Lincoln Center
-16  Hasin Tasneem Rutgers University
-16  Gabriella Blum Fordham Univ., Lincoln Center
+20 ∆ Ciara Lopez
+19 π Meric Pope The King's College
+19 ∆ Adam Varoqua Seton Hall University
+17 π Sandra Jovic Fordham Univ., Lincoln Center
+17 ∆ Alexia Seepersaud Fordham University, Rose Hill
+17 ∆ Elizabeth Weinman Fordham Univ., Lincoln Center
+17 π Katja Custodio Pace University
+16 π Talha Mukhtar Drexel University
+16 ∆ Alyssa Kurke American University
+16 ∆ Ashley Yanda Pace University
+16 ∆ Nicholas Munves Haverford College
+16 π Rajan Gupta Seton Hall University
+16 ∆ Catie Shoemaker The King's College
+16 ∆ Michael Fagan Fordham Univ., Lincoln Center
+16 ∆ Hasin Tasneem Rutgers University
+16 π Gabriella Blum Fordham Univ., Lincoln Center
 1136
 1340
 1708
@@ -190,19 +190,19 @@ Howard University
 Page 3 of 4
 Outstanding Attorneys
 Points Side Name School
-19  Nick Barile Haverford College
-19  Nazeerah Ali Howard University
-18  Aidan Carickhoff Temple University
-18  Mike Kleynman Rutgers University
-18  Samantha Panich Temple University
-18  Mayan Kleiman Brandeis University
-18  Fiona Danyko Fordham Univ., Lincoln Center
-18  Rafael Saplala Fordham University, Rose Hill
-17  Catie Shoemaker The King's College
-17  Amelia Boland The King's College
-17  Jordan McGuffee Haverford College
-17  Lulu Qian American University
-17  Aidan Carickhoff Temple University
+19 ∆ Nick Barile Haverford College
+19 ∆ Nazeerah Ali Howard University
+18 ∆ Aidan Carickhoff Temple University
+18 ∆ Mike Kleynman Rutgers University
+18 π Samantha Panich Temple University
+18 ∆ Mayan Kleiman Brandeis University
+18 ∆ Fiona Danyko Fordham Univ., Lincoln Center
+18 π Rafael Saplala Fordham University, Rose Hill
+17 π Catie Shoemaker The King's College
+17 ∆ Amelia Boland The King's College
+17 π Jordan McGuffee Haverford College
+17 π Lulu Qian American University
+17 π Aidan Carickhoff Temple University
 1219
 1339
 1274

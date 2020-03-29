@@ -127,20 +127,20 @@ Awarded to the team that best exemplifies the ideals of honesty, civility and fa
 27 1178 Furman University Honorable Mention
 Outstanding Witnesses
 Points Side Name School
-19  Candace Bone
-18  Grace Files Rhodes College
-18  Morgan Hershey Western Kentucky University
-18  Kiersten Marsh University of Tennessee, Knoxville
-17  Celine Lee Vanderbilt University
-17  Abbi Woodcock University of Kentucky
-17  Samantha Speer Vanderbilt University
-17  Kennedy Sanders University of Tennessee, Knoxville
-17  Matthew Busbice Rhodes College
-17  Grace DeMent Vanderbilt University
+19 ∆ Candace Bone
+18 ∆ Grace Files Rhodes College
+18 π Morgan Hershey Western Kentucky University
+18 π Kiersten Marsh University of Tennessee, Knoxville
+17 ∆ Celine Lee Vanderbilt University
+17 π Abbi Woodcock University of Kentucky
+17 π Samantha Speer Vanderbilt University
+17 ∆ Kennedy Sanders University of Tennessee, Knoxville
+17 π Matthew Busbice Rhodes College
+17 ∆ Grace DeMent Vanderbilt University
 Outstanding Attorneys
 Points Side Name School
-19  Alex Schramkowski Rhodes College
-19  Sean McCauley Indiana University, Bloomington
+19 π Alex Schramkowski Rhodes College
+19 ∆ Sean McCauley Indiana University, Bloomington
 1154
 1243
 1184
@@ -162,14 +162,14 @@ Round 3 coin flip: Heads ‐ Right Side is Defense
 Team #
 University of Kentucky
 Page 3 of 4
-18  Elias Neibart Emory University
-18  Carolyn Koehnke Emory University
-18  Hemal Prasad Emory University
-18  Liam Simkins-Walker Furman University
-17  Jeena Piriano Rhodes College
-17  Vyasa Babu Indiana University, Bloomington
-17  Kyle Hornback University of Louisville
-17  Devin Mashman Emory University
+18 π Elias Neibart Emory University
+18 ∆ Carolyn Koehnke Emory University
+18 ∆ Hemal Prasad Emory University
+18 π Liam Simkins-Walker Furman University
+17 ∆ Jeena Piriano Rhodes College
+17 π Vyasa Babu Indiana University, Bloomington
+17 ∆ Kyle Hornback University of Louisville
+17 π Devin Mashman Emory University
 1654
 1654
 1672

@@ -151,18 +151,18 @@ Awarded to the team that best exemplifies the ideals of honesty, civility and fa
 29 1422 Cal Poly, San Luis Obispo Honorable Mention
 Outstanding Witnesses
 Points Side Name School
-20  Abby Coy
-18  Mary Muradyants U. of California, Los Angeles
-18  Catie Fan U. of California, Berkeley
-18  Ayesha Pasha Stanford University
-18  Katie Sullivan Santa Clara University
-17  Charlotte laurence U. of California, Berkeley
-17  Alex Millard Stanford University
-17  Blythe Kelly University of San Francisco
-16  Pablo Moraga U. of California, Berkeley
-16  Elena Crespo Stanford University
-16  Tatianna Megerdichian Univ. of California, Santa Cruz
-16  Aspen Adams Univ. of California, Santa Cruz
+20 ∆ Abby Coy
+18 π Mary Muradyants U. of California, Los Angeles
+18 π Catie Fan U. of California, Berkeley
+18 ∆ Ayesha Pasha Stanford University
+18 ∆ Katie Sullivan Santa Clara University
+17 ∆ Charlotte laurence U. of California, Berkeley
+17 π Alex Millard Stanford University
+17 ∆ Blythe Kelly University of San Francisco
+16 π Pablo Moraga U. of California, Berkeley
+16 π Elena Crespo Stanford University
+16 π Tatianna Megerdichian Univ. of California, Santa Cruz
+16 π Aspen Adams Univ. of California, Santa Cruz
 1426
 1232
 1095
@@ -185,17 +185,17 @@ U. of Calif., Santa Barbara
 Page 3 of 4
 Outstanding Attorneys
 Points Side Name School
-19  Sophia Helfand Stanford University
-18  Maynard Maganini U. of California, Los Angeles
-18  Ramya Jois U. of California, Los Angeles
-18  Ameen Hussaini U. of Calif., Santa Barbara
-18  Alec Willerman U. of California, Berkeley
-18  Qutob, Hisham Fresno State University
-18  Mostafa El-Harazi University of California, Irvine
-18  Noor Takadin Univ. of California, San Diego
-17  Devin Kellett Loyola Marymount University
-17  Alexandria Suebert U. of Calif., Santa Barbara
-17  Ryanne Bamieh Stanford University
+19 π Sophia Helfand Stanford University
+18 ∆ Maynard Maganini U. of California, Los Angeles
+18 π Ramya Jois U. of California, Los Angeles
+18 ∆ Ameen Hussaini U. of Calif., Santa Barbara
+18 π Alec Willerman U. of California, Berkeley
+18 π Qutob, Hisham Fresno State University
+18 ∆ Mostafa El-Harazi University of California, Irvine
+18 ∆ Noor Takadin Univ. of California, San Diego
+17 ∆ Devin Kellett Loyola Marymount University
+17 π Alexandria Suebert U. of Calif., Santa Barbara
+17 ∆ Ryanne Bamieh Stanford University
 1426
 1095
 1096

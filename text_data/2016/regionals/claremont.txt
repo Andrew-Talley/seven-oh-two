@@ -171,7 +171,6 @@ Opening	coin	flip:	Tails	-	Lower	#	=	Better	Rank
 Round	3	coin	flip:	Heads	-	Right	Side	is	Defense
 Team
 1330
-1787
 1602
 1326
 1435

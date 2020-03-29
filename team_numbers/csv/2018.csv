@@ -1,0 +1,715 @@
+Team #,Team Name
+1001,Millsaps College A
+1002,Millsaps College B
+1003,Millsaps College C
+1004,Arizona State University A
+1005,Arizona State University B
+1006,The King's College A
+1007,Lehigh University A
+1008,Lasell College A
+1009,"University of Maryland, College Park A"
+1010,"University of Maryland, College Park B"
+1011,"University of Maryland, College Park C"
+1012,"University of Maryland, College Park D"
+1013,Drexel University A
+1014,Drexel University B
+1015,Drexel University C
+1016,Drexel University D
+1017,University of Central Florida A
+1018,University of Central Florida B
+1019,University of Central Florida C
+1020,Loyola Marymount University A
+1021,Loyola Marymount University B
+1022,Amherst College A
+1023,Amherst College B
+1024,Brown University A
+1025,Brown University B
+1026,Brown University C
+1027,Reed College A
+1028,Reed College B
+1029,The Catholic University of America A
+1030,Case Western Reserve University A
+1031,Case Western Reserve University B
+1032,Case Western Reserve University C
+1033,St. Ambrose University A
+1034,Yale University A
+1035,Yale University B
+1036,Yale University C
+1037,Chemeketa Community College A
+1038,Chemeketa Community College B
+1039,Coastal Carolina University A
+1040,Coastal Carolina University B
+1041,Macalester College A
+1042,Macalester College B
+1043,Macalester College C
+1044,Mount Aloysius College A
+1045,University of Chicago A
+1046,University of Chicago B
+1047,University of Chicago C
+1048,University of Chicago D
+1049,Dillard University A
+1050,Miami University A
+1051,Miami University B
+1052,Miami University C
+1053,U.S. Air Force Academy A
+1054,U.S. Air Force Academy B
+1055,Cornell University A
+1056,Cornell University B
+1057,Cornell University C
+1058,St. Norbert College A
+1059,St. Norbert College B
+1060,"University of Illinois, Urbana Champaign A"
+1061,"University of Illinois, Urbana Champaign B"
+1062,"University of Illinois, Urbana Champaign C"
+1063,DePaul University A
+1064,University of Central Missouri A
+1065,University of Central Missouri B
+1066,Carnegie Mellon University A
+1067,Carnegie Mellon University B
+1068,Luther College A
+1069,Luther College B
+1070,Columbia College A
+1071,Quinnipiac University A
+1072,Susquehanna University A
+1073,Ohio State University A
+1074,Ohio State University B
+1075,Ohio State University C
+1076,Austin College A
+1077,Austin College B
+1078,Fresno State University A
+1079,Fresno State University B
+1080,Fresno State University C
+1081,Fresno State University D
+1082,Fresno State University E
+1083,Washburn University A
+1084,Southwestern University A
+1085,Elizabethtown College A
+1086,Elizabethtown College B
+1087,Creighton University A
+1088,Creighton University B
+1089,Stevenson University A
+1090,"SUNY, Binghamton University A"
+1091,"SUNY, Binghamton University B"
+1092,Manchester University A
+1093,"University of California, Los Angeles A"
+1094,"University of California, Los Angeles B"
+1095,"University of California, Los Angeles C"
+1096,"University of California, Los Angeles D"
+1097,"University of California, Los Angeles E"
+1098,"University of Maryland, Baltimore County A"
+1099,"University of Maryland, Baltimore County B"
+1100,"University of Wisconsin, La Crosse A"
+1101,"University of Wisconsin, La Crosse B"
+1102,"Fordham University, Lincoln Center A"
+1103,"Fordham University, Lincoln Center B"
+1104,Allegheny College A
+1105,Trinity College A
+1106,Hillsdale College A
+1107,Hillsdale College B
+1108,Upper Iowa University A
+1109,Harvard University A
+1110,Harvard University B
+1111,University of Redlands A
+1112,University of Redlands B
+1113,University of Virginia A
+1114,University of Virginia B
+1115,Grinnell College A
+1116,University of Florida A
+1117,University of Florida B
+1118,University of Florida C
+1119,University of Florida D
+1120,University of Florida E
+1121,Belmont Abbey College A
+1122,College of Charleston A
+1123,Illinois State University A
+1124,Illinois State University B
+1125,University of St. Thomas (TX) A
+1126,University of St. Thomas (TX) B
+1127,College of Saint Rose A
+1128,College of Saint Rose B
+1129,Middle Tennessee State University A
+1130,Middle Tennessee State University B
+1131,Middle Tennessee State University C
+1132,University of Scranton A
+1133,Washington and Lee A
+1134,Washington and Lee B
+1135,Pace University A
+1136,Pace University B
+1137,Loyola University-Chicago A
+1138,Loyola University-Chicago B
+1139,Loyola University-Chicago C
+1140,Bucknell University A
+1141,Dickinson College A
+1142,Dickinson College B
+1143,Iona College A
+1144,North Central College A
+1145,Wake Forest University A
+1146,Wake Forest University B
+1147,Mississippi Valley State University A
+1148,Mississippi Valley State University B
+1149,Elmhurst College A
+1150,Texas A&M University A
+1151,Texas A&M University B
+1152,Vanderbilt University A
+1153,Vanderbilt University B
+1154,Vanderbilt University C
+1155,Washington & Jefferson College A
+1156,Washington & Jefferson College B
+1157,Hamilton College A
+1158,Hamilton College B
+1159,Gonzaga University A
+1160,Gonzaga University B
+1161,Gonzaga University C
+1162,"SUNY, Fredonia A"
+1163,East Central University A
+1164,"University of Texas, Arlington A"
+1165,St. John's University A
+1166,"University of Tennessee, Knoxville A"
+1167,"University of Tennessee, Knoxville B"
+1168,"University of Tennessee, Knoxville C"
+1169,Lafayette College A
+1170,Lafayette College B
+1171,Missouri Southern State University A
+1172,Fitchburg State University A
+1173,Howard Payne University A
+1174,Howard Payne University B
+1175,College of the Holy Cross A
+1176,Samford University A
+1177,College of the Holy Cross B
+1178,Furman University A
+1179,Furman University B
+1180,Furman University C
+1181,Oregon State University A
+1182,Oregon State University B
+1183,"Indiana University, Bloomington A"
+1184,"Indiana University, Bloomington B"
+1185,"Indiana University, Bloomington C"
+1186,"Indiana University, Bloomington D"
+1187,"University of Minnesota, Duluth A"
+1188,Xavier University A
+1189,Xavier University B
+1190,Mississippi University for Women A
+1191,Northwood University A
+1192,Northwood University B
+1193,University of Oregon A
+1194,University of Oregon B
+1195,University of Oregon C
+1196,Cornell College A
+1197,Cornell College B
+1198,Cornell College C
+1199,St. Bonaventure University A
+1200,"University of Tennessee, Chattanooga A"
+1201,"University of Tennessee, Chattanooga B"
+1202,Kansas State University A
+1203,Georgetown College A
+1204,University of Mississippi A
+1205,University of Mississippi B
+1206,Ohio University A
+1207,Ohio University B
+1208,Ohio Northern University A
+1209,Clark University A
+1210,Clark University B
+1211,"University of Massachusetts, Lowell A"
+1212,University of Pittsburgh A
+1213,University of Pittsburgh B
+1214,University of Washington - Seattle A
+1215,University of Washington - Seattle B
+1216,Boston University A
+1217,Boston University B
+1218,Boston University C
+1219,Haverford College A
+1220,Haverford College B
+1221,Haverford College C
+1222,Palm Beach Atlantic University A
+1223,Carleton College A
+1224,Carleton College B
+1225,College of William & Mary A
+1226,College of William & Mary B
+1227,College of William & Mary C
+1228,"University of Wisconsin, Milwaukee A"
+1229,"University of Wisconsin, Milwaukee B"
+1230,Stockton University A
+1231,"University of California, Santa Barbara A"
+1232,"University of California, Santa Barbara B"
+1233,Flagler College A
+1234,Quincy University A
+1235,Quincy University B
+1236,Pomona College A
+1237,Pomona College B
+1238,Pomona College C
+1239,Collin College A
+1240,Rhodes College A
+1241,Rhodes College B
+1242,Rhodes College C
+1243,Rhodes College D
+1244,University of Cincinnati A
+1245,University of Cincinnati B
+1246,Tufts University A
+1247,Tufts University B
+1248,Tufts University C
+1249,Tufts University D
+1250,Georgia Tech A
+1251,Georgia Tech B
+1252,Georgia Tech C
+1253,Fontbonne University A
+1254,"University of Wisconsin, Superior A"
+1255,"University of Wisconsin, Superior B"
+1256,"SUNY, Albany A"
+1257,Lewis University A
+1258,Lewis University B
+1259,"University of Alabama, Birmingham A"
+1260,"University of Alabama, Birmingham B"
+1261,Eastern Michigan University A
+1262,Eastern Michigan University B
+1263,Hamline University A
+1264,Hamline University B
+1265,"University of Texas, Dallas A"
+1266,"University of Texas, Dallas B"
+1267,"University of Texas, Dallas C"
+1268,"University of Texas, Dallas D"
+1269,Monmouth University A
+1270,Monmouth University B
+1271,University of St. Thomas (MN) A
+1272,University of St. Thomas (MN) B
+1273,Temple University A
+1274,Temple University B
+1275,Elon University A
+1276,Elon University B
+1277,Kennesaw State University A
+1278,Mercer University A
+1279,Murray State University A
+1280,Colorado College A
+1281,Colorado College B
+1282,Connecticut College A
+1283,University of North Alabama A
+1284,University of North Alabama B
+1285,"University of California, Berkeley A"
+1286,"University of California, Berkeley B"
+1287,"University of California, Berkeley C"
+1288,"University of California, Berkeley D"
+1289,Stonehill College A
+1290,Culver-Stockton College A
+1291,Culver-Stockton College B
+1292,Central College A
+1293,University of New Haven A
+1294,"University of Wisconsin, Madison A"
+1295,"University of Wisconsin, Madison B"
+1296,"University of North Carolina, Charlotte A"
+1297,"University of North Carolina, Charlotte B"
+1298,Olivet Nazarene University A
+1299,Mount St. Mary's University (CA) A
+1300,Augusta University A
+1301,"University of Nevada, Las Vegas A"
+1302,"University of Nevada, Las Vegas B"
+1303,Antelope Valley College A
+1304,University of South Dakota A
+1305,Washington University of St. Louis A
+1306,Washington University of St. Louis B
+1307,Mississippi College A
+1308,U.S. Coast Guard Academy A
+1309,Baylor University A
+1310,Baylor University B
+1311,University of Rochester A
+1312,University of Rochester B
+1313,University of Rochester C
+1314,Georgia State University A
+1315,Georgia State University B
+1316,Ithaca College A
+1317,Ithaca College B
+1318,Lee University A
+1319,Western Michigan University A
+1320,"California State University, Dominguez Hills A"
+1321,Columbia University A
+1322,Columbia University B
+1323,Western Illinois University A
+1324,Northwest Missouri State University A
+1325,University of South Carolina A
+1326,University of South Carolina B
+1327,University of South Carolina C
+1328,University of West Florida A
+1329,"University of Illinois, Springfield A"
+1330,Siena College A
+1331,Benedictine University A
+1332,Benedictine University B
+1333,Truman State University A
+1334,Truman State University B
+1335,University of Portland A
+1336,University of Portland B
+1337,Simpson College A
+1338,Campbell University A
+1339,Howard University A
+1340,Howard University B
+1341,Wheaton College A
+1342,Wheaton College B
+1343,"University of Minnesota, Morris A"
+1344,"University of Minnesota, Morris B"
+1345,University of Maine A
+1346,Washington Adventist University A
+1347,Liberty University A
+1348,Syracuse University A
+1349,Syracuse University B
+1350,"University of Missouri, Columbia A"
+1351,"University of Missouri, Columbia B"
+1352,Patrick Henry College A
+1353,Patrick Henry College B
+1354,Patrick Henry College C
+1355,Patrick Henry College D
+1356,Washington State University A
+1357,Duquesne University A
+1358,University of Pennsylvania A
+1359,University of Pennsylvania B
+1360,University of Pennsylvania C
+1361,University of Notre Dame A
+1362,University of Notre Dame B
+1363,University of Notre Dame C
+1364,St. Vincent College A
+1365,Carthage College A
+1366,Eastern Kentucky University A
+1367,Eastern Kentucky University B
+1368,Georgetown University A
+1369,Georgetown University B
+1370,Georgetown University C
+1371,Bellarmine University A
+1372,Bellarmine University B
+1373,Villanova University A
+1374,College of St. Benedict/St. John's University A
+1375,Western Kentucky University A
+1376,University of Kansas A
+1377,University of Kansas B
+1378,University of Kansas C
+1379,Fairleigh Dickinson University A
+1380,University of Richmond A
+1381,University of Richmond B
+1382,University of Richmond C
+1383,Indiana University of Pennsylvania A
+1384,Colgate University A
+1385,Northern Illinois University A
+1386,Northern Illinois University B
+1387,"University of Illinois, Chicago A"
+1388,"University of Illinois, Chicago B"
+1389,Gettysburg College A
+1390,Brandeis University A
+1391,Brandeis University B
+1392,Brandeis University C
+1393,Brandeis University D
+1394,"California State Polytechnic University, Pomona A"
+1395,"California State Polytechnic University, Pomona B"
+1396,University of St. Francis A
+1397,Buffalo State College A
+1398,Florida State University A
+1399,Florida State University B
+1400,Florida State University C
+1401,Princeton University A
+1402,Princeton University B
+1403,Princeton University C
+1404,Moorpark College A
+1405,Rio Hondo College
+1406,Southern Methodist University A
+1407,Southern Methodist University B
+1408,Southern Methodist University C
+1409,"University of Louisiana, Monroe A"
+1410,"University of Louisiana, Monroe B"
+1411,St. Xavier University A
+1412,Westminster College A
+1413,Pepperdine University A
+1414,St. John Fisher College A
+1415,Colby College A
+1416,Colby College B
+1417,Hendrix College A
+1418,Hendrix College B
+1419,La Salle University A
+1420,La Salle University B
+1421,Ball State University A
+1422,"California Polytechnic State University, San Luis Obispo A"
+1423,"California Polytechnic State University, San Luis Obispo B"
+1424,"California Polytechnic State University, San Luis Obispo C"
+1425,Stanford University A
+1426,Stanford University B
+1427,Fresno State University F
+1428,Canisius College A
+1429,Dartmouth College A
+1430,Dartmouth College B
+1431,University of New Hampshire A
+1432,University of New Hampshire B
+1433,University of Vermont A
+1434,University of Vermont B
+1435,Winona State University A
+1436,Duquesne University B
+1437,"SUNY, Buffalo A"
+1438,"SUNY, Buffalo B"
+1439,New York University A
+1440,New York University B
+1441,New York University C
+1442,Ohio State University D
+1443,Massachusetts Institute of Technology A
+1444,Massachusetts Institute of Technology B
+1445,Drake University A
+1446,Drake University B
+1447,Drake University C
+1448,Macalester College D
+1449,Auburn University A
+1450,Auburn University B
+1451,Mississippi University for Women B
+1452,University of Bridgeport A
+1453,Claremont McKenna College A
+1454,Northern Michigan University A
+1455,University of Connecticut A
+1456,University of Connecticut B
+1457,Valparaiso University A
+1458,Morningside College A
+1459,University of Georgia A
+1460,University of Georgia B
+1461,University of Georgia C
+1462,University of Georgia D
+1463,Iowa State University A
+1464,"University of North Carolina, Chapel Hill A"
+1465,"University of North Carolina, Chapel Hill B"
+1466,"University of North Carolina, Chapel Hill C"
+1467,"University of North Carolina, Chapel Hill D"
+1468,University of Houston A
+1469,University of Houston B
+1470,University of Wisconsin Eau Claire A
+1471,University of Dayton A
+1472,University of Dayton B
+1473,Nova Southeastern University A
+1474,Grinnell College B
+1475,Concordia University Chicago A
+1476,University of South Florida A
+1477,University of South Florida B
+1478,Shippensburg University A
+1479,University of Michigan A
+1480,University of Michigan B
+1481,University of Michigan C
+1482,Roger Williams University A
+1483,Ursinus College A
+1484,"U.S. Military Academy at West Point, NY A"
+1485,Wheaton College C
+1486,University of Toledo A
+1487,Seton Hall University A
+1488,Seton Hall University B
+1489,University of Kentucky A
+1490,Rutgers University A
+1491,Rutgers University B
+1492,Rutgers University C
+1493,Arcadia University A
+1494,Central Michigan University A
+1495,"University of Colorado, Boulder A"
+1496,"University of Colorado, Boulder B"
+1497,"University of Colorado, Boulder C"
+1498,Susquehanna University B
+1499,University of North Dakota A
+1500,American University A
+1501,American University B
+1502,American University C
+1503,Belmont University A
+1504,Bryant University A
+1505,Johns Hopkins University A
+1506,Johns Hopkins University B
+1507,Johns Hopkins University C
+1508,Franklin & Marshall College A
+1509,Georgia College and State University A
+1510,Georgia College and State University B
+1511,Georgia College and State University C
+1512,University of Iowa A
+1513,University of Iowa B
+1514,University of Iowa C
+1515,Bowdoin College A
+1516,Bowdoin College B
+1517,"SUNY, Old Westbury A"
+1518,Johns Hopkins University D
+1519,"University of Alabama, Tuscaloosa A"
+1520,"University of Alabama, Tuscaloosa B"
+1521,"University of Alabama, Tuscaloosa C"
+1522,Western State Colorado University A
+1523,Wellesley College A
+1524,Wellesley College B
+1525,Wesleyan University A
+1526,Wesleyan University B
+1527,Wesleyan University C
+1528,Ohio Northern University B
+1529,"University of Minnesota, Twin Cities A"
+1530,"University of Minnesota, Twin Cities B"
+1531,"University of Minnesota, Twin Cities C"
+1532,University of Notre Dame D
+1533,High Point University A
+1534,Louisiana State University A
+1535,Duke University A
+1536,Duke University B
+1537,Duke University C
+1538,University of Arkansas A
+1539,University of Arkansas B
+1540,Houston Baptist University A
+1541,"Pennsylvania State University, State College A"
+1542,"Pennsylvania State University, State College B"
+1543,"Pennsylvania State University, State College C"
+1544,"Pennsylvania State University, State College D"
+1545,Scripps College A
+1546,Scripps College B
+1547,Scripps College C
+1548,New Jersey City University A
+1549,George Washington University A
+1550,George Washington University B
+1551,George Washington University C
+1552,Edinboro University A
+1553,Stevenson University B
+1554,Mercer University B
+1555,Baruch College A
+1556,"University of Texas, Austin A"
+1557,"University of Texas, Austin B"
+1558,Loras College A
+1559,Loras College B
+1560,Furman University D
+1561,Boston College A
+1562,Boston College B
+1563,Boston College C
+1564,Boston College D
+1565,University of Kentucky B
+1566,"University of Missouri, Kansas City A"
+1567,"University of Missouri, Kansas City B"
+1568,Trinity University A
+1569,Trinity University B
+1570,Arizona State University C
+1571,Arizona State University D
+1572,Arizona State University E
+1573,Harvey Mudd College A
+1574,DePaul University B
+1575,"University of Texas, Rio Grande Valley (Pan-American) A"
+1576,Alamance Community College A
+1577,Baylor University C
+1578,University of Arizona A
+1579,University of Arizona B
+1580,University of Arizona C
+1581,University of Arizona D
+1582,University of Arizona E
+1583,University of New Mexico A
+1584,University of New Mexico B
+1585,St. Xavier University B
+1586,California State University San Marcos A
+1587,"SUNY, Oneonta A"
+1588,Canisius College B
+1589,University of Tulsa A
+1590,Stetson University A
+1591,Stetson University B
+1592,Northwestern University A
+1593,Northwestern University B
+1594,Northwestern University C
+1595,Northwestern University D
+1596,"University of California, Irvine A"
+1597,"University of California, Irvine B"
+1598,"University of California, Irvine C"
+1599,"University of California, Irvine D"
+1600,Monroe College A
+1601,Collin College B
+1602,Williams College A
+1603,Williams College B
+1604,Ohio University C
+1605,Adrian College A
+1606,Adrian College B
+1607,Adrian College C
+1608,Franklin College A
+1609,St. Olaf College A
+1610,St. Olaf College B
+1611,Central Washington University A
+1612,St. Bonaventure University B
+1613,"SUNY, Geneseo A"
+1614,"SUNY, Geneseo B"
+1615,Niagara University A
+1616,Occidental College A
+1617,Occidental College B
+1618,University of Denver A
+1619,University of Denver B
+1620,"University of California, Davis A"
+1621,"University of California, Davis B"
+1622,Santa Clara University A
+1623,University of Oklahoma A
+1624,University of Southern California A
+1625,University of Southern California B
+1626,University of Southern California C
+1627,"SUNY, Albany B"
+1628,San Diego State University A
+1629,San Diego State University B
+1630,University of Louisville A
+1631,"University of Nebraska, Lincoln A"
+1632,Indiana University Purdue University Indianapolis A
+1633,Indiana University Purdue University Indianapolis B
+1634,"University of California, Riverside A"
+1635,"University of California, Riverside B"
+1636,Vassar College A
+1637,"University of California, San Diego A"
+1638,"University of California, San Diego B"
+1639,University of Northern Iowa A
+1640,Michigan State University A
+1641,Michigan State University B
+1642,Michigan State University C
+1643,Michigan State University D
+1644,Towson University A
+1645,University of Delaware A
+1646,University of Delaware B
+1647,"Fordham University, Rose Hill A"
+1648,"Fordham University, Rose Hill B"
+1649,"Fordham University, Rose Hill C"
+1650,Mount St. Mary's University (MD) A
+1651,University of Mobile A
+1652,Molloy College A
+1653,Davidson College A
+1654,Emory University A
+1655,Sonoma State University A
+1656,University of San Francisco A
+1657,Swarthmore College A
+1658,Spelman College A
+1659,Harris Stowe State University A
+1660,Weber State University A
+1661,St. Edward's University A
+1662,North Carolina Agricultural and Technical State University A
+1663,Pasadena City College A
+1664,"SUNY, New Paltz A"
+1665,"University of California, Santa Cruz A"
+1666,Tulane University A
+1667,St. Louis University A
+1668,Davidson College B
+1669,Kennesaw State University B
+1670,Swarthmore College B
+1671,Louisiana State University B
+1672,Emory University B
+1673,Western Kentucky University B
+1674,Nova Southeastern University B
+1675,Tulane University B
+1676,Towson University B
+1677,Davidson College C
+1678,University of Portland C
+1679,Emory University C
+1680,University of Portland D
+1681,University of Iowa D
+1682,Rhodes College E
+1683,University of Florida F
+1684,Rice University A
+1685,St. Vincent College B
+1686,University of Oregon D
+1687,North Central College B
+1688,Colgate University B
+1689,"University of Nevada, Reno A"
+1690,Suffolk University A
+1691,"University of Massachusetts, Amherst A"
+1692,University of Cincinnati C
+1693,Kansas State University B
+1694,"SUNY, Fredonia B"
+1695,Hamline University C
+1696,The College of New Jersey A
+1697,Florida International University A
+1698,Oregon State University C
+1699,"University of California, San Diego C"
+1700,Brooklyn College - CUNY A
+1701,"University of Massachusetts, Amherst B"
+1702,"University of Nevada, Reno B"
+1703,"University of Massachusetts, Amherst C"
+1704,St. John Fisher University B
+1705,City College of New York A
+1706,Lake Forest College A
+1707,North Central University A
+1708,The King's College B
+1709,Claremont McKenna College B
+1710,Bucknell University B
+1711,University of Idaho A
+1712,Grand Canyon University A
+1713,"University of Colorado, Colorado Springs A"
+1714,Grand Canyon University B

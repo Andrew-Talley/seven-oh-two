@@ -141,15 +141,16 @@ Awarded	to	the	team	that	best	exemplifies	the	ideals	of	honesty,	civility	and	fa
 Outstanding	Witnesses
 Points Side Name School
 19 D DaQuawn Bruce Carthage College
-P Jon George University of Michigan
-D Briana Hines Western Michigan University
-D Delicia Holder SUNY, Fredonia
+19 P Jon George University of Michigan
+19 D Briana Hines Western Michigan University
+19 D Delicia Holder SUNY, Fredonia
 18 D Brooke Bowerman Ohio State University
 17 P Blake Mullican Eastern Michigan University
-D Samantha Larsen SUNY, Fredonia
-P Brooke Zentmeyer University of Notre Dame
-D Melanie Jenner Carthage College
+17 D Samantha Larsen SUNY, Fredonia
+17 P Brooke Zentmeyer University of Notre Dame
+17 D Melanie Jenner Carthage College
 16 D Abigale Bongiorno Eastern Michigan University
+16 P Thomas Fogarty Ohio State University
 1073
 1365
 1480
@@ -167,19 +168,18 @@ Opening	coin	flip:	Heads	-	Higher	#	=	Better	Rank
 Round	3	coin	flip:	Tails	-	Left	Side	is	Defense
 Team	#
 Page 4 of 4
-P Thomas Fogarty Ohio State University
 Outstanding	Attorneys
 Points Side Name School
 20 D Matthew Besman Ohio State University
-P Charles Graham Eastern Michigan University
-P Sarah Reasoner Eastern Michigan University
+20 P Charles Graham Eastern Michigan University
+20 P Sarah Reasoner Eastern Michigan University
 19 D Sahil Nerurkar University of Chicago
-D Lily Nwanesi Eastern Michigan University
-D DaQuawn Bruce Carthage College
+19 D Lily Nwanesi Eastern Michigan University
+19 D DaQuawn Bruce Carthage College
 18 P Alexei Owen University of Chicago
-D Kellen McCullum Benedictine University
+18 D Kellen McCullum Benedictine University
 17 D Enrico Monaghan Michigan State University
-P Katherine Fugate University of Notre Dame
+17 P Katherine Fugate University of Notre Dame
 1073
 1261
 1261

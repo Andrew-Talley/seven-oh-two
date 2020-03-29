@@ -181,12 +181,12 @@ Outstanding	Attorneys
 Points Side Name School
 20 Π Jordan	Kane University	of	Kansas
 20 Π Alex	Hall University	of	Missouri,	Kansas	City
-20 Δ (17Π) Julie	Holdener Quincy	University
+20 / 17 Δ / Π Julie	Holdener Quincy	University
 18 Π David	Bond University	of	Nebraska,	Lincoln
 18 Δ Olivia	Thiel University	of	Nebraska,	Lincoln
 18 Π Alana	Caruso University	of	Central	Missouri
 17 Δ Sean	Emery Northwest	Missouri	State	University
-17 π+Δ Peyton	Rosencrants University	of	Missouri,	Columbia
+17 / 17 Π / Δ Peyton	Rosencrants University	of	Missouri,	Columbia
 17 Π Meagen	Brown University	of	Missouri,	Kansas	City
 16 Π Will	Hancock Washington	University	in	St	Louis
 16 Δ Liz	Johnson Morningside	College

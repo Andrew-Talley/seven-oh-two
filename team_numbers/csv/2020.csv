@@ -1,0 +1,763 @@
+Team #,Team Name
+1001,Miami University A 6/3/2019
+1002,Miami University B
+1003,Miami University C
+1004,Missouri Southern State University A 6/3/2019
+1005,Missouri Southern State University B
+1006,Rhodes College A 6/3/2019
+1007,Rhodes College B
+1008,Rhodes College C
+1009,Rhodes College D
+1010,Macalester College A 6/3/2019
+1011,Macalester College B
+1012,Macalester College C
+1013,Macalester College D  11/21/2019
+1014,College of William & Mary A 6/3/2019
+1015,College of William & Mary B
+1016,College of William & Mary C
+1017,Texas A&M University A 6/4/2019
+1018,Texas A&M University B
+1019,Texas A&M University C
+1020,Western Colorado University A 6/4/2019
+1021,American University A 6/5/2019
+1022,American University B
+1023,American University C
+1024,Lafayette College A 6/5/2019
+1025,Lafayette College B
+1026,Stevenson University A 6/5/2019
+1027,Stevenson University B
+1028,Auburn University A 6/10/2019
+1029,Auburn University B
+1030,St. Norbert College A 6/11/0219
+1031,St. Norbert College B  2/7/2020
+1032,Wheaton College A 6/11/2019
+1033,Wheaton College B
+1034,"University of California, Davis A 6/11/2019"
+1035,"University of California, Davis B"
+1036,"University of California, Davis C"
+1037,"University of Texas, Dallas A 6/11/2019"
+1038,"University of Texas, Dallas B"
+1039,"University of Texas, Dallas C"
+1040,Loyola University-Chicago A 6/13/2019
+1041,Loyola University-Chicago B
+1042,Loyola University-Chicago C
+1043,Bellarmine University A 6/17/2019
+1044,Bellarmine University B
+1045,Dillard University A 6/17/2019
+1046,Illinois State University A 6/17/2019
+1047,Palm Beach Atlantic University A 6/17/2019
+1048,Palm Beach Atlantic University B  12/9/2019
+1049,University of Virginia A 6/17/2019
+1050,University of Virginia B
+1051,Samford University A 6/19/2019
+1052,University of Florida A 6/24/2019
+1053,University of Florida B
+1054,University of Florida C
+1055,University of Florida D
+1056,University of Florida E
+1057,Juniata College A 6/24/2019
+1058,Juniata College B
+1059,University of Central Missouri A 6/26/2019
+1060,University of Central Missouri B
+1061,"University of Texas, Arlington A 06/27/2019"
+1062,Millsaps College A 6/28/2019
+1063,Millsaps College B
+1064,Millsaps College C  11/27/2019
+1065,Chemeketa Community College A 6/29/2019
+1066,Luther College A 7/2/2019
+1067,Luther College B
+1068,Cornell University A 7/2/2019 1/30/2020
+1069,Cornell University B  1/10/2020
+1070,Cornell University C  12/28/2019
+1071,"University of Minnesota, Duluth A 7/2/2019"
+1072,University of Arizona A 7/2/2019
+1073,University of Arizona B
+1074,University of Arizona C
+1075,"Fordham University, Rose Hill A 7/8/2019"
+1076,"Fordham University, Rose Hill B"
+1077,Moorpark College A 7/10/2019 11/27/2019
+1078,Tufts University A 7/11/2019
+1079,Tufts University B
+1080,Tufts University C
+1081,Tufts University D
+1082,Grand Canyon University A 7/12/2019
+1083,"University of California, Irvine A 7/12/2019"
+1084,"University of California, Irvine B"
+1085,"University of California, Irvine C"
+1086,"University of California, Irvine D"
+1087,Fairleigh Dickinson University A 07/14/2019
+1088,Iona College A 7/15/2019
+1089,Middle Tennessee State University A 7/15/2019
+1090,Middle Tennessee State University B
+1091,"SUNY, University at Albany A 7/15/2019"
+1092,Washington and Lee University A 7/16/2019
+1093,Washington and Lee University B
+1094,Mississippi Valley State University A 7/16/2019
+1095,Ithaca College A 7/16/2019
+1096,Ithaca College B
+1097,De Montfort University Law School A 7/17/2019
+1098,"University of Wisconsin, Milwaukee A 7/17/2019"
+1099,"University of Wisconsin, Milwaukee B  2/5/2020"
+1100,St. Olaf College A 7/19/2019
+1101,Stanford University A 7/19/2019
+1102,Stanford University B
+1103,St. Bonaventure University A 7/19/2019
+1104,University of South Florida A 7/16/2019 1/28/2020
+1105,University of South Florida B  1/18/2020
+1106,"U.S. Military Academy at West Point, NY A 7/22/2019"
+1107,Gettysburg College A 7/22/2019
+1108,University of Rochester A 7/23/2019
+1109,University of Rochester B
+1110,University of Rochester C
+1111,College of Saint Rose A 7/23/2019
+1112,Columbia College (MO) A 7/23/2019
+1113,University of Notre Dame A 7/24/2019
+1114,University of Notre Dame B
+1115,University of Notre Dame C
+1116,Creighton University A 7/24/2019
+1117,Creighton University B
+1118,Colby College A 7/24/2019
+1119,Colby College B
+1120,Fresno State University A 7/24/2019
+1121,Fresno State University B
+1122,Fresno State University C
+1123,Fresno State University D
+1124,Fresno State University E
+1125,Fresno State University F  11/20/2019
+1126,University of Pittsburgh A 7/25/2019
+1127,University of Pittsburgh B
+1128,University of Dayton A 7/25/2019
+1129,University of Dayton B
+1130,Dickinson College A 7/25/2019
+1131,Dickinson College B
+1132,"University of Louisiana, Monroe A 7/25/2019"
+1133,"University of Louisiana, Monroe B"
+1134,Central Michigan University A 7/25/2019
+1135,"Fordham University, Lincoln Center A 7/27/2019"
+1136,"Fordham University, Lincoln Center B"
+1137,University of New Hampshire A 7/29/2019
+1138,University of New Hampshire B
+1139,Belmont Abbey College A 7/30/2019 10/14/2019
+1140,"University of California, Santa Barbara A 7/30/2019"
+1141,"University of California, Santa Barbara B"
+1142,"University of California, Santa Barbara C"
+1143,University of Central Florida A 7/31/2019
+1144,University of Central Florida B
+1145,University of Central Florida C
+1146,Boston University A 7/31/2019
+1147,Boston University B
+1148,Boston University C
+1149,Hillsdale College A 7/31/2019
+1150,Hillsdale College B
+1151,Hillsdale College C
+1152,Northern Illinois University A 8/1/2019
+1153,Northern Illinois University B
+1154,Washington University in St. Louis A 8/1/2019
+1155,Washington University in St. Louis B
+1156,MIT A 8/1/2019
+1157,MIT B
+1158,University of Tennessee A 8/2/3019
+1159,University of Tennessee B
+1160,University of Tennessee C
+1161,Furman University A 8/2/2019
+1162,Furman University B
+1163,Furman University C
+1164,University of Mississippi A 8/2/2019
+1165,University of Mississippi B
+1166,"University of Wisconsin, Madison A 8/2/2019"
+1167,"University of Wisconsin, Madison B"
+1168,University of South Dakota A 8/5/2019
+1169,Washburn University A 8/5/2019
+1170,Washburn University B
+1171,Temple University A 8/5/2019
+1172,Temple University B
+1173,Indiana University Purdue University Indianapolis A 6/29/2019
+1174,Indiana University Purdue University Indianapolis B
+1175,Mississippi College A 8/5/2019
+1176,"SUNY, Binghamton University A 8/5/2019"
+1177,"SUNY, Binghamton University B"
+1178,Bryn Mawr College A 8/6/2019
+1179,Quincy University A 8/6/2019
+1180,Quincy University B  11/4/2019
+1181,Ohio State University A 8/6/2019
+1182,Ohio State University B
+1183,Ohio State University C
+1184,Brown University A 8/6/2019
+1185,Brown University B
+1186,Brown University C
+1187,"University of Illinois, Springfield A 8/6/2019"
+1188,Stonehill College A 8/6/2019
+1189,La Salle University A 8/7/2019
+1190,La Salle University B
+1191,University of Minnesota A 8/7/2019
+1192,University of Minnesota B
+1193,University of Minnesota C
+1194,University of West Florida A 8/8/2019
+1195,"University of Tennessee, Chattanooga A 8/8/2019"
+1196,"University of Tennessee, Chattanooga B"
+1197,Louisiana State University A 8/8/2019
+1198,Louisiana State University B
+1199,University of Toronto A 07/29/2019
+1200,University of Richmond A 8/8/2019
+1201,University of Richmond B
+1202,University of Richmond C
+1203,Truman State University A 8/9/2019
+1204,Truman State University B
+1205,University of New Haven A 8/9/2019
+1206,Cornell College A 8/9/2019
+1207,Cornell College B
+1208,Cornell College C  12/8/2019
+1209,Lasell College A 8/9/2019
+1210,Elmhurst College A 8/10/2019
+1211,Santa Clara University A 8/11/2019
+1212,Santa Clara University B
+1213,College of St. Benedict/St. John's University A 8/12/2019
+1214,North Central College A 8/12/2019
+1215,Mississippi University for Women A 8/12/2019
+1216,Loyola Marymount University A 8/12/2019
+1217,Loyola Marymount University B
+1218,University of Redlands A 8/12/2019
+1219,Central College A 8/12/2019
+1220,Xavier University A 8/12/2019
+1221,Xavier University B
+1222,Culver-Stockton College A 8/12/2019 1/22/2020
+1223,Brandeis University A 8/12/2019
+1224,Brandeis University B
+1225,Brandeis University C  2/13/2020
+1226,Brandeis University D  12/11/2019
+1227,New Jersey City University A 8/13/2019
+1228,Northwood University A 8/13/2019
+1229,Northwood University B
+1230,Florida International University A 8/13/2019
+1231,Florida International University B
+1232,Colorado College A 8/13/0209
+1233,Colorado College B
+1234,Patrick Henry College A 8/14/2019
+1235,Patrick Henry College B
+1236,Patrick Henry College C
+1237,Patrick Henry College D
+1238,Georgia Tech A 8/14/2019
+1239,Georgia Tech B
+1240,Georgia Tech C
+1241,Eastern Kentucky University A 8/14/2019
+1242,Eastern Kentucky University B
+1243,Hamilton College A 8/14/2019
+1244,Hamilton College B
+1245,Mercer University A 8/14/2019
+1246,Mercer University B  1/17/2020
+1247,University of Houston A 8/7/2019
+1248,University of Houston B
+1249,Rutgers University A 8/14/2019
+1250,Rutgers University B
+1251,Rutgers University C
+1252,Stockton University A 8/14/2019
+1253,Baylor University A 8/14/2019
+1254,Baylor University B
+1255,DePaul University A 8/14/2019
+1256,Ohio Northern University A 8/14/2019 2/13/2020
+1257,Siena College A 8/14/2019
+1258,"University of California, Berkeley A 8/14/2019"
+1259,"University of California, Berkeley B"
+1260,"University of California, Berkeley C"
+1261,"University of California, Berkeley D"
+1262,U.S. Coast Guard Academy A 8/26/2019
+1263,Carthage College A 8/15/2019
+1264,Carthage College B
+1265,Central Washington University A 8/15/2019
+1266,Suffolk University A 8/15/2019
+1267,"University of California, Los Angeles A 8/15/2019"
+1268,"University of California, Los Angeles B"
+1269,"University of California, Los Angeles C"
+1270,"University of California, Los Angeles D"
+1271,"University of California, Los Angeles E"
+1272,Columbia University A 8/15/2019
+1273,Columbia University B
+1274,St. Xavier University A 8/15/2019
+1275,University of Chicago A 8/15/2019
+1276,University of Chicago B
+1277,University of Chicago C
+1278,University of Chicago D
+1279,University of Vermont A 8/15/2019
+1280,University of Vermont B
+1281,Georgia State University A 8/15/2019
+1282,Georgia State University B
+1283,Eastern Michigan University A 8/15/2019
+1284,Eastern Michigan University B
+1285,Franklin & Marshall College A 8/15/2019
+1286,Roger Williams University A 8/15/2019
+1287,University of St. Thomas (TX) A 8/15/2019
+1288,University of South Carolina Aiken A 8/15/2019
+1289,Winona State University A 08/15/2019
+1290,Nova Southeastern University A 8/15/2019
+1291,Nova Southeastern University B
+1292,Kennesaw State University A 8/16/2019
+1293,Tulane University A 8/16/2019
+1294,University of Southern California A 8/16/2019
+1295,University of Southern California B
+1296,University of Southern California C
+1297,University of Southern California D  1/16/2020
+1298,Villanova University A 8/16/2019
+1299,Claremont McKenna College A 8/16/2019
+1300,Claremont McKenna College B
+1301,St. Vincent College A 8/16/2019
+1302,Duke University A 8/16/2019
+1303,Duke University B
+1304,Duke University C
+1305,Arizona State University A 8/17/2019
+1306,Arizona State University B
+1307,Arizona State University C
+1308,Arizona State University D
+1309,Arizona State University E
+1310,Ohio University A 8/18/2019
+1311,Ohio University B
+1312,Clark University A 8/19/2019
+1313,Clark University B
+1314,Grinnell College A 8/19/2019
+1315,Grinnell College B
+1316,St. Catherine University A 8/19/2019
+1317,Upper Iowa University A 8/26/2019
+1318,Washington State University A 8/19/2019
+1319,Washington State University B
+1320,"University of California, Santa Cruz A 8/19/2019"
+1321,"University of California, Santa Cruz B"
+1322,"University of North Carolina, Charlotte A 8/20/2019"
+1323,Carleton College A 8/20/2019
+1324,Carleton College B
+1325,Hamline University A 8/20/2019
+1326,Hamline University B
+1327,Sonoma State University A 8/20/2019
+1328,Manchester University A 8/20/2019 1/27/2020
+1329,Duquesne University A 8/20/2019
+1330,Duquesne University B
+1331,"University of Wisconsin, Eau Claire A 8/21/2019"
+1332,Liberty University A 8/21/2019
+1333,Liberty University B
+1334,Liberty University C
+1335,Bucknell University A 8/21/2019
+1336,Bucknell University B
+1337,University of North Alabama A 8/21/2019
+1338,Elon University A 8/21/2019
+1339,Elon University B
+1340,Flagler College A 8/22/2019
+1341,Flagler College B
+1342,Elizabethtown College A 8/22/2019
+1343,Coastal Carolina University A 8/22/2019
+1344,Northwest Missouri State University A 8/22/2019
+1345,Simpson College A 8/22/2019
+1346,Hendrix College A 8/22/2019
+1347,Bowdoin College A 8/22/2019
+1348,Bowdoin College B
+1349,Austin College A 8/15/2019
+1350,Austin College B
+1351,Carnegie Mellon University A 8/23/2019
+1352,Carnegie Mellon University B
+1353,University of North Dakota A 8/26/2019
+1354,Collin College A 8/27/2019
+1355,University of Kentucky A 8/27/2019
+1356,University of Kentucky B
+1357,Loras College A 8/28/2019
+1358,Washington & Jefferson College A 8/28/2019
+1359,Washington & Jefferson College B
+1360,Mount St. Mary's University (CA) A 8/26/2019 12/31/2019
+1361,Case Western Reserve University A 8/15/2019
+1362,Case Western Reserve University B
+1363,Adrian College A 8/29/2019
+1364,Western Kentucky University A 8/29/2019
+1365,Western Kentucky University B
+1366,The King's College A 8/29/2019 2/10/2020
+1367,Lewis University A 8/29/2019
+1368,Purdue University A 8/30/2019
+1369,St. Ambrose University A 8/30/2019
+1370,Seton Hall University A 8/30/2019
+1371,Seton Hall University B
+1372,University of Iowa A 9/3/2019
+1373,University of Iowa B
+1374,University of Iowa C
+1375,University of Iowa D  1/3/2020
+1376,Rice University A 9/3/2019
+1377,Rice University B
+1378,University of Kansas A 9/3/2019
+1379,University of Kansas B
+1380,University of Kansas C
+1381,Vanderbilt University A 9/3/2019
+1382,Vanderbilt University B
+1383,"University of Illinois, Chicago A 9/3/2019"
+1384,"University of Illinois, Chicago B"
+1385,"SUNY, Fredonia A 9/3/2019"
+1386,Shippensburg University A 9/3/2019
+1387,Howard University A 9/4/2019
+1388,Howard University B
+1389,Indiana University A 9/4/2019
+1390,Indiana University B
+1391,Indiana University C
+1392,Indiana University D  1/13/2020
+1393,"SUNY, Geneseo A 9/4/2019"
+1394,"SUNY, Geneseo B"
+1395,Georgia College and State University A 9/4/2019
+1396,Georgia College and State University B
+1397,"University of Maryland, Baltimore County A 9/4/2019"
+1398,"University of Maryland, Baltimore County B"
+1399,"University of Maryland, Baltimore County C"
+1400,Southwestern University A 9/4/2019 2/3/2020
+1401,Southwestern University B  1/23/2020
+1402,University of South Carolina A 8/12/2019
+1403,University of South Carolina B
+1404,University of South Carolina C
+1405,"University of Minnesota, Morris A 9/5/2019"
+1406,"University of Minnesota, Morris B  12/2/2019"
+1407,Amherst College A 9/5/2019
+1408,Amherst College B
+1409,Amherst College C  9/15/2019
+1410,University of Texas A 9/5/2019
+1411,University of Texas B
+1412,University of Texas C
+1413,Dartmouth College A 9/6/2019
+1414,Dartmouth College B
+1415,Allegheny College A 9/6/2019 1/23/2020
+1416,Yale University A 9/6/2019
+1417,Yale University B
+1418,Yale University C
+1419,Elmira College A 9/6/2019
+1420,Elmhurst College B 9/6/2019 12/14/2019
+1421,Pace University A 9/9/2019
+1422,Canisius College A 9/9/2019
+1423,Kent State University A 9/9/2019
+1424,Haverford College A 9/9/2019
+1425,Haverford College B
+1426,University of Mobile A 9/9/2019
+1427,Oregon State University A 9/10/2019
+1428,Oregon State University B
+1429,University of Missouri A 9/10/2019
+1430,University of Missouri B
+1431,University of St. Thomas (MN) A 9/10/2019
+1432,University of St. Thomas (MN) B
+1433,Wellesley College A 9/10/2019
+1434,Wellesley College B
+1435,Utica College A 9/10/2019
+1436,North Central University A 9/10/2019
+1437,University of Portland A 9/10/2019
+1438,University of Portland B
+1439,University of Portland C
+1440,Ball State University A 9/11/2019
+1441,"University of Nevada, Reno A 9/11/2019"
+1442,Southern Methodist University A 9/11/2019
+1443,Southern Methodist University B
+1444,Trinity Christian College A 9/11/2019
+1445,"SUNY, Oneonta A 9/11/2019"
+1446,Swarthmore College A 9/11/2019
+1447,Swarthmore College B
+1448,Western Illinois University A 9/12/2019
+1449,Wesleyan University A 9/12/2019
+1450,Wesleyan University B
+1451,Wesleyan University C
+1452,Drake University A 9/12/2019
+1453,Drake University B
+1454,Drake University C
+1455,"University of Massachusetts, Lowell A 9/13/2019"
+1456,Wake Forest University A 9/13/2019
+1457,Wake Forest University B
+1458,Pomona College A 9/13/2019
+1459,Pomona College B
+1460,Pomona College C
+1461,University of Arkansas A 9/13/2019
+1462,University of Arkansas B
+1463,University of Arkansas C
+1464,"SUNY, Buffalo A 9/16/2019"
+1465,"SUNY, Buffalo B"
+1466,"SUNY, Buffalo C"
+1467,Indiana University of Pennsylvania A 9/16/2019 1/13/2020
+1468,Texas Tech University A 9/16/2019 1/17/2020
+1469,University of Connecticut A 9/16/2019
+1470,University of Connecticut B
+1471,University of Connecticut C
+1472,Middlebury College A 9/16/2019
+1473,University of Alabama A 9/16/2019
+1474,University of Alabama B
+1475,University of Alabama C
+1476,University of Alabama D
+1477,University of Maine A 9/17/2019 1/24/2020
+1478,Trinity College A 9/17/2019
+1479,Muhlenberg College A 9/17/2019
+1480,North Carolina A&T University A 9/17/2019
+1481,Kansas State University A 9/18/2019
+1482,Kansas State University B
+1483,Drake University D 9/18/2019 12/28/2019
+1484,Elizabethtown College B 9/17/2019 12/30/2019
+1485,San Jose State University A 9/20/2019
+1486,George Washington University A 9/20/2019
+1487,George Washington University B
+1488,George Washington University C
+1489,University of Missouri C 9/20/2019
+1490,University of Oregon A 9/20/2019
+1491,University of Oregon B
+1492,University of Oregon C
+1493,University of Oregon D
+1494,"University of California, Merced A 9/21/2019"
+1495,Weber State University A 9/23/2019
+1496,"SUNY, University at Albany B 9/23/2019"
+1497,Georgetown College A 9/23/2019
+1498,College of the Sequoias A 9/23/2019 1/24/2020
+1499,Oklahoma Christian University A 9/23/2019
+1500,Oklahoma Christian University B  12/6/2019
+1501,University of Central Oklahoma A 9/23/2019 12/27/2019
+1502,Williams College A 9/23/2019
+1503,Williams College B
+1504,Agnes Scott College A 9/23/2019 1/31/2020
+1505,The Catholic University of America A 9/24/2019
+1506,Concordia College A 9/24/2019
+1507,Florida State University A 9/24/2019
+1508,Florida State University B
+1509,Florida State University C
+1510,Connecticut College A 9/24/2019
+1511,University of Pennsylvania A 9/25/2019
+1512,University of Pennsylvania B
+1513,University of Pennsylvania C
+1514,University of Pennsylvania D  12/22/2019
+1515,Gonzaga University A 9/25/2019
+1516,Gonzaga University B
+1517,Gonzaga University C
+1518,University of St. Francis A 9/25/2019
+1519,St. Olaf College B 9/25/2019
+1520,Winona State University B 9/26/2019
+1521,Belmont University A 9/26/2019
+1522,Belmont University B
+1523,Franklin & Marshall College B 9/26/0209
+1524,St. Louis University A 9/26/2019
+1525,St. Louis University B
+1526,St. Louis University C  1/11/2020
+1527,Valparaiso University A 9/26/2019 1/17/2020
+1528,Western Michigan University A 9/25/2019
+1529,College of the Holy Cross A 9/26/2019
+1530,College of the Holy Cross B  12/31/2019
+1531,Edinboro University A 9/26/2019
+1532,High Point University A 9/27/2019
+1533,High Point University B
+1534,University of Cincinnati A 9/27/2019
+1535,University of Cincinnati B
+1536,"Cal Poly, Pomona A 9/28/2019"
+1537,"Cal Poly, Pomona B"
+1538,San Diego State University A 9/30/2019
+1539,San Diego State University B
+1540,University of Washington A 9/30/2019
+1541,University of Washington B
+1542,"University of Nevada, Las Vegas A 9/30/2019"
+1543,"University of Nevada, Las Vegas B"
+1544,University of Delaware A 9/30/2019
+1545,University of Delaware B
+1546,University of Rochester D 9/30/2019
+1547,"University of California, Merced B 9/30/2019 1/15/2020"
+1548,Drexel University A 10/1/2019
+1549,Drexel University B
+1550,Drexel University C  1/27/2020
+1551,University of Scranton A 10/2/2019
+1552,Johns Hopkins University A 10/2/2019
+1553,Johns Hopkins University B  2/2/2020
+1554,Johns Hopkins University C  1/21/2020
+1555,University of North Carolina A 10/2/2019
+1556,University of North Carolina B
+1557,University of North Carolina C
+1558,University of North Carolina D
+1559,University of Scranton B 10/2/2019
+1560,"Pennsylvania State University, State College A 10/2/2019"
+1561,"Pennsylvania State University, State College B"
+1562,"Pennsylvania State University, State College C"
+1563,"Pennsylvania State University, State College D"
+1564,William Paterson University A 10/2/2019 1/3/2020
+1565,St. John Fisher A 10/3/2019
+1566,Jackson State University A 10/3/2019
+1567,St. Bonaventure University B 10/3/2019
+1568,Louisiana State University C 10/3/2019 12/26/2019
+1569,University of Toledo A 10/3/2019
+1570,"University of Wisconsin, Platteville A 10/3/2019"
+1571,"University of Wisconsin, Platteville B  12/3/2019"
+1572,Bryn Mawr College B 10/4/2019 2/5/2020
+1573,Northeastern University A 10/4/2019
+1574,Northeastern University B  10/4/2019
+1575,Buffalo State College A 10/4/2019
+1576,Villanova University B 10/4/2019
+1577,Lehigh University A 10/7/2019
+1578,Lehigh University B
+1579,Morningside College A 10/4/2019 1/8/2020
+1580,DePaul University B 10/7/2019 1/10/2020
+1581,Georgetown University A 9/27/2019
+1582,Georgetown University B
+1583,Georgetown University C
+1584,Emory University A 10/7/2019
+1585,Emory University B
+1586,Emory University C
+1587,University of Oklahoma A 10/7/2019
+1588,University of Oklahoma B
+1589,Arizona State University F 10/7/2019
+1590,Michigan State University A 10/8/2019
+1591,Michigan State University B
+1592,Michigan State University C
+1593,Michigan State University D
+1594,Wisconsin Lutheran College A 10/8/2019
+1595,Washington Adventist University A 10/8/2019
+1596,"University of Colorado, Colorado Springs A 9/27/2019"
+1597,Trinity University A 10/8/2019
+1598,Trinity University B
+1599,"University of California, San Diego A 10/8/2019"
+1600,"University of California, San Diego B"
+1601,"University of California, San Diego C"
+1602,University of Idaho A 10/8/2019 1/23/2020
+1603,"Cal Poly, San Luis Obispo A 10/8/2019"
+1604,"Cal Poly, San Luis Obispo B"
+1605,"Cal Poly, San Luis Obispo C"
+1606,"Cal Poly, San Luis Obispo D"
+1607,"University of Missouri, Kansas City A 10/8/2019"
+1608,Missouri Baptist University A 10/8/2019 1/16/2020
+1609,Northwestern University A 10/9/2019
+1610,Northwestern University B
+1611,Northwestern University C
+1612,Northwestern University D
+1613,University of Denver A 10/9/2019
+1614,University of Denver B
+1615,McGill University A 10/9/2019
+1616,University of Illinois A 10/9/2019
+1617,University of Illinois B
+1618,University of Illinois C
+1619,University of Illinois D
+1620,"University of Louisiana, Monroe C 10/9/2019"
+1621,University of Redlands B 10/9/2019
+1622,Baylor University C 10/9/2019
+1623,Boston College A 10/9/2019
+1624,Boston College B
+1625,Boston College C
+1626,Boston College D
+1627,Lee University A 10/9/2019
+1628,Lee University B
+1629,Princeton University A 10/10/2019
+1630,Princeton University B
+1631,Princeton University C
+1632,Husson University A 10/10/2019 12/17/2019
+1633,City College of New York A 10/10/2019
+1634,University of Mary Washington A 10/10/2019 10/15/2019
+1635,Alamance Community College A 10/11/2019
+1636,Colgate University A 10/11/2019
+1637,Tulane University B 10/12/2019
+1638,New York University A 10/13/2019
+1639,New York University B
+1640,MIT C 10/13/2019
+1641,Dillard University B 10/14/2019
+1642,Northern Arizona University A 9/10/2019
+1643,"University of Alabama, Birmingham A 10/14/2019"
+1644,Bethany Lutheran College A 10/14/2019
+1645,Harvard University A 10/14/2019
+1646,Harvard University B
+1647,Occidental College A 10/14/2019
+1648,Campbell University A 10/14/2019
+1649,Scripps College A 10/14/2019
+1650,Scripps College B
+1651,Southeastern University A 10/14/2019
+1652,University of Georgia A 10/14/2019
+1653,University of Georgia B
+1654,University of Georgia C
+1655,University of Georgia D
+1656,Spelman College A 10/14/2019
+1657,Berry College A 10/14/2019
+1658,Berry College B  12/27/2019
+1659,La Salle University C 10/14/2019
+1660,University of Arizona D 10/14/2019
+1661,Rochester Institute of Technology A 10/14/2019
+1662,Ursinus College A 10/15/2019 2/3/2020
+1663,Jacksonville University A 10/15/2019
+1664,Eastern Michigan University C 10/15/2019
+1665,Georgia State University C 10/15/2019
+1667,Quinnipiac University A 10/15/2019
+1668,Houston Baptist University A 10/15/2019
+1669,Colorado Mesa University A 10/15/2019
+1670,Kennesaw State University B 10/15/2019
+1671,Syracuse University A 10/15/2019
+1672,Syracuse University B  1/9/2020
+1673,Vassar College A 10/15/2019 2/9/2020
+1674,University of Maryland A 10/15/2019
+1675,University of Maryland B
+1676,University of Maryland C
+1677,University of Maryland D
+1678,Davidson College A 10/15/2019
+1679,Davidson College B
+1680,Davidson College C
+1681,University of South Carolina Upstate A 10/15/2019
+1682,Olivet Nazarene University A 10/15/2019 1/13/2020
+1683,Washington College A 10/15/2019
+1684,"University of California, Riverside A 10/15/2019"
+1685,"University of Massachusetts, Amherst A 10/15/2019"
+1686,"University of Massachusetts, Amherst B"
+1687,"University of Massachusetts, Amherst C"
+1688,Georgia Tech D 10/15/2019
+1689,"University of Texas, El Paso A 10/15/2019"
+1690,University of South Carolina D 10/15/2019
+1691,Wilmington College A 10/15/2019
+1692,Washington College B 10/15/2019 11/27/2019
+1693,Occidental College B 10/15/2019 1/10/2020
+1694,University of Colorado A 10/15/2019
+1695,University of Colorado B
+1696,University of Colorado C
+1697,University of Colorado D
+1698,University of Miami A 10/15/2019
+1699,University of Miami B
+1700,Pepperdine University A 10/15/2019
+1701,Pepperdine University B  12/28/2019
+1702,Arcadia University A 10/15/2019
+1703,New College of Florida A 10/15/2019
+1704,Luther College C 10/15/2019
+1705,University of Nebraska A 10/15/2019
+1706,University of Nebraska B
+1707,U.S. Air Force Academy A 10/16/2019
+1708,U.S. Air Force Academy B
+1709,Eastern Washington University A 10/16/2019 1/13/2020
+1710,"University of California, Riverside B 10/17/2019"
+1711,University of North Dakota B 10/15/2019 1/16/2020
+1712,La Salle University D 10/15/2019 11/27/2019
+1713,University of North Florida A 10/21/2019 12/16/2019
+1714,St. John's University A 10/17/2019
+1715,Western Kentucky University C 10/22/2019
+1716,University of North Georgia A 10/23/2019
+1717,University of Cincinnati C 10/30/2019
+1718,Harris Stowe State University A 10/30/2019
+1719,Chaffey Community College A 10/31/2019
+1720,Central College B 11/4/2019
+1721,Gonzaga University D 11/4/2019 1/22/2020
+1722,University of Toronto B 11/6/2019
+1723,Grand Canyon University B 11/8/2019
+1724,University of San Francisco A 11/8/2019
+1725,University of San Francisco B  2/17/2020
+1726,Jarvis Christian College A 11/8/2019 1/21/2020
+1727,Lawrence University A 11/12/2019
+1728,Lawrence University B  1/15/2020
+1729,Arcadia University B 11/14/2019 12/23/2019
+1730,Grand Canyon University C 11/14/2019 1/10/2020
+1731,Bryant University A 11/14/2019
+1732,Florida State University D 11/18/2019
+1733,Purdue University B 11/18/2019
+1734,University of Michigan A 11/18/2019
+1735,University of Michigan B
+1736,University of Michigan C
+1737,North Carolina A&T University B 11/18/2019
+1738,University of South Carolina Upstate B 10/11/2019 1/24/2020
+1739,College of Saint Rose B 11/18/2019
+1740,Northwest Missouri State University B 11/21/2019
+1741,"University of Illinois, Springfield B 11/25/2019"
+1742,Susquehanna University A 11/26/2019
+1743,Susquehanna University B
+1744,Utica College B 11/30/2019
+1745,Northwood University C 12/2/2019
+1746,University of Tulsa A 12/4/2019
+1747,Buffalo State College B 12/5/2019
+1748,Northern Arizona University B 12/6/2019
+1749,Rice University C 12/7/2019
+1750,Hamline University C 12/9/2019
+1751,"University of Massachusetts, Lowell B 12/10/2019"
+1752,Reed College A 12/11/2019
+1753,Reed College B
+1754,Grinnell College C 12/12/2019
+1755,University of South Florida - Sarasota-Manatee 12/13/2019 2/4/2020
+1756,"SUNY, Buffalo D 1/7/2020"
+1757,University of Bridgeport A 1/7/2020 2/13/2020
+1758,"University of Texas, Rio Grande Valley A 1/7/2020 2/4/2020"
+1759,Marquette University A 1/13/2020
+1760,Towson University A 1/14/2020 2/6/2020
+1761,Rio Hondo College A 1/14/2020 1/28/2020
+1762,"University of Alabama, Birmingham B 1/24/2020"
+1763,Virginia Tech A 1/30/2020
